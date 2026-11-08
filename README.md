@@ -60,7 +60,16 @@
 
 검토 기준은 [UDL·웹 접근성 체크리스트](docs/UDL_ACCESSIBILITY_CHECKLIST.md)와 [미디어 접근성 점검](docs/MEDIA_ACCESSIBILITY_AUDIT.md)에 있습니다.
 
-## 개인정보와 안전 설계
+## 운영판의 개인정보 보호·알림 설계
+
+아래는 자체 Firebase 프로젝트와 Apps Script를 연결해 운영할 때 적용되는 설계입니다. 공개 체험판에서는 실제 학생 기록을 저장하거나 교사에게 알림 메일을 보내지 않습니다.
+
+| 기능 | 공개 체험판 | 운영판 연결 시 |
+|---|---|---|
+| 학생 학습 활동 | 체험 가능 | 사용 가능 |
+| 활동 기록 | 브라우저 메모리에만 유지되며 새로고침하면 초기화 | 자체 Firebase에 저장 |
+| 교사 화면 | 로그인 없이 체험 | 승인된 교사의 Google 로그인 사용 |
+| 교사 알림 메일 | 발송하지 않음 | 서버 설정 후 발송 |
 
 - 이름이나 학번 대신 캐릭터와 교사만 아는 별칭(S01 등)을 씁니다. 실명은 앱에 넣지 않습니다.
 - 학생은 계정 입력 없이 익명 로그인으로 씁니다. 기록은 운영자가 승인한 교사만 Google 로그인으로 보고, 교사는 담당 반 기록만 볼 수 있습니다.
@@ -89,9 +98,9 @@
 - 2.0 (2026년 2~5월): Google for Education AI+Edu Fellowship 기간에 개발
 - 3.0 (2026년): "저도 써도 될까요?", "데이터는 어떻게 관리되나요?"라는 질문을 계기로 데이터와 보안을 다시 설계
 
-## 수업 적용 (초기 단계)
+## 수업 적용과 개선
 
-2026년 현재 2개 학급 수업에서 쓰며 고쳐 가는 단계입니다. 2026년 10월 연수에서 소개한 초기 관찰(활동 전 감정 크기 평균 3~4단계 → 활동 뒤 1단계, 고른 활동 완료율 90%)은 소규모·단기 결과라, 기록을 이어 가며 확인하고 있습니다.
+실제 수업에서 사용하며 학생의 사용 과정과 어려움을 관찰하고, 그 결과를 바탕으로 기능과 학습 흐름을 개선하고 있습니다. 현재는 현장 적용과 개선을 이어가는 단계이며, 교육적 효과를 일반화할 수 있는 검증 결과를 제시하는 것은 아닙니다.
 
 ## 직접 실행하기 (개발자용)
 
@@ -149,14 +158,13 @@ Google for Education AI+Edu Fellowship, GEG 선생님들, 그리고 함께 써 �
 
 **Designed for everyone.** Three display modes (sentences, pictures with words, pictures only) based on CAST UDL 3.0, large text, Korean and English, color-independent cues, keyboard and switch access, user-started audio, and spoken guidance on every screen.
 
-**Privacy and safety.** No names or student IDs, only characters and teacher-assigned nicknames. Students use anonymous sign-in; only approved teachers can view records, through Google sign-in, and only for their own classes. A level-5 negative emotion or a help request emails the teacher through an Apps Script server that re-checks the sign-in and the record before sending. Firestore security rules are covered by automated tests, and no secrets are kept in the code.
+**Privacy and safety in live operation. The following design applies when the app is connected to a separately configured Firebase project and Apps Script backend. The public demo keeps activity records only in browser memory, clears them on reload, and does not send teacher notification emails. No names or student IDs, only characters and teacher-assigned nicknames. Students use anonymous sign-in; only approved teachers can view records, through Google sign-in, and only for their own classes. A level-5 negative emotion or a help request emails the teacher through an Apps Script server that re-checks the sign-in and the record before sending. Firestore security rules are covered by automated tests, and no secrets are kept in the code.
 
 
 **I defined the learning flow and feature requirements, then used AI-assisted coding tools to implement them. Through classroom use, I identified difficulties, prioritized improvements, and checked that changes preserved the existing learning flow. 
 How it was built.** Gemini Notebook for an evidence-grounded spec, Google Stitch for the UI, Google AI Studio for the build, a ChatGPT agent for the English version and the data and security structure, and Firebase, Apps Script and Gmail for records and alerts. Version 1.0 (January 2026) became 2.0 during the Google for Education AI+Edu Fellowship (February–May 2026), and 3.0 redesigned data and security after teachers asked how the data is managed.
 
-**Classroom use.** In 2026 the app is used in two classes and is still being refined. Early observations shared in an October 2026 workshop (average emotion intensity from level 3–4 before an activity to 1 after it, and 90% of chosen activities completed) are small and short-term, and data collection continues.
-
+**Classroom use. I use Mind G.P.S. in my teaching and refine its features and learning flow based on classroom observations. The project is still being developed through classroom use; these observations do not establish generalizable educational effectiveness.
 **Try it.** [Live demo](https://rud0325-tech.github.io/mind-gps/) in demo mode.
 
 **Run it.** Requires Node.js 20+. `npm ci`, then `npm run dev` (demo mode at http://localhost:3000). `npm test` runs the unit tests and `npm run build` makes a production build. To run it for real, connect your own Firebase project and Apps Script by following [docs/DATA_SETUP.md](docs/DATA_SETUP.md).
