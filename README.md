@@ -1,8 +1,8 @@
 # 마음 G.P.S. 3.0 (Mind G.P.S.)
 
-**누구나 스스로 배우고 쓰는 정서 지원 웹앱.** 현직 특수교사가 바이브 코딩으로 만들고, 실제 수업에서 쓰며 고쳐 온 앱입니다.
+**누구나 스스로 배우고 쓰는 사회정서학습(SEL) 웹앱.** 현직 특수교사가 바이브 코딩으로 만들고, 실제 수업에서 쓰며 고쳐 온 앱입니다.
 
-*An emotional self-regulation web app built and refined in real classrooms by a special education teacher using vibe coding. English summary below.*
+*A social-emotional learning (SEL) web app for everyone, built and refined in real classrooms by a special education teacher using vibe coding. English summary below.*
 
 > **이 저장소는 체험판 정리본입니다.** 기본 설정이 체험 모드라 학생 기록을 저장하지 않고 알림도 보내지 않습니다. 실제 학교 운영판의 연결 정보는 들어 있지 않습니다.
 >
@@ -137,7 +137,7 @@ Google for Education AI+Edu Fellowship, GEG 선생님들, 그리고 함께 써 �
 
 ## English
 
-**Mind G.P.S. 3.0** is an emotional self-regulation web app built by Yungyeong Kim, a special education teacher in Korea, without writing code by hand.
+**Mind G.P.S. 3.0** is a social-emotional learning (SEL) web app for everyone, built by Yungyeong Kim, a special education teacher in Korea, without writing code by hand.
 
 > **This repository is the demo edition.** It runs in demo mode by default: no student records are stored and no alerts are sent. It contains no connection details for the live school deployment.
 >

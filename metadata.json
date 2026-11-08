@@ -1,6 +1,6 @@
 {
   "name": "마음GPS",
-  "description": "중등 특수학급 학생을 위한 감정 조절 및 자기 조절 실천 지원 앱 (공개 체험판: 학생 기록을 저장하지 않음)",
+  "description": "누구나 스스로 감정을 살피고 조절하도록 돕는 사회정서학습(SEL) 웹앱 (공개 체험판: 기록을 저장하지 않음)",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
