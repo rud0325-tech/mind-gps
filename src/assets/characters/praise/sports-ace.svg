@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">스포츠에이스</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#FFB36B" stroke="#C68B53" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#FFB36B" stroke="#C68B53" stroke-width="4.5" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#FFB36B" stroke="#C68B53" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#FFE9D5" stroke="#C68B53" stroke-width="4" />
+    <path d="M102 129 Q110 116 118 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M142 129 Q150 116 158 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <ellipse cx="94" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <ellipse cx="166" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <path d="M119 137 Q130 152 141 137 Z" fill="#3C4043" />
+    <path d="M122 138 h16 v3 h-16 z" fill="#FFFFFF" />
+    <path d="M52 92 Q130 58 208 92" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" />
+    <ellipse cx="218" cy="112" rx="12" ry="17" fill="#FFB36B" stroke="#C68B53" stroke-width="4.5" transform="rotate(15 218 112)" />
+    <g transform="translate(196 50) rotate(0 30 30) scale(0.75)">
+      <circle cx="30" cy="30" r="24" fill="#FA903E" stroke="#3C4043" stroke-width="3" />
+      <path d="M6 30h48M30 6v48M13 13q12 17 0 34M47 13q-12 17 0 34" fill="none" stroke="#3C4043" stroke-width="2.5" />
+    </g>
+    <ellipse cx="46" cy="172" rx="12" ry="17" fill="#FFB36B" stroke="#C68B53" stroke-width="4.5" transform="rotate(35 46 172)" />
+  </g>
+</svg>

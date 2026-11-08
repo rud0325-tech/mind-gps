@@ -1,0 +1,8 @@
+{
+  "projectId": "",
+  "scriptId": "",
+  "webAppUrl": "",
+  "version": 0,
+  "deployedAt": "",
+  "note": "Fill in after deploying your own Apps Script web app (see docs/DATA_SETUP.md). Public endpoint, not a secret. Requests require a valid Firebase ID token and a matching server record."
+}

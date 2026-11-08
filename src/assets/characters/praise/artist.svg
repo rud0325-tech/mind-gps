@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">그림작가</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#F5A3D3" stroke="#BF7FA4" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#F5A3D3" stroke="#BF7FA4" stroke-width="4.5" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#F5A3D3" stroke="#BF7FA4" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#FCE5F2" stroke="#BF7FA4" stroke-width="4" />
+    <path d="M99 129 Q107 116 115 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M139 129 Q147 116 155 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <ellipse cx="94" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <ellipse cx="166" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <path d="M118 139 Q130 145 142 139 C140 156 120 156 118 139 Z" fill="#3C4043" stroke="#3C4043" stroke-width="3.2" stroke-linejoin="round" />
+    <path d="M124 148 Q130 144 136 148 Q130 153 124 148 Z" fill="#FF8A80" />
+    <path d="M76 70 Q74 34 128 32 Q186 32 186 66 Q170 78 130 76 Q92 78 76 70 Z" fill="#EA4335" stroke="#3C4043" stroke-width="3.5" stroke-linejoin="round" />
+    <path d="M130 32 q2 -10 8 -12" fill="none" stroke="#3C4043" stroke-width="3.5" stroke-linecap="round" />
+    <ellipse cx="60" cy="196" rx="12" ry="17" fill="#F5A3D3" stroke="#BF7FA4" stroke-width="4.5" transform="rotate(40 60 196)" />
+    <g transform="rotate(-10 60 186)">
+      <rect x="22" y="152" width="78" height="62" rx="8" fill="#3C4043" />
+      <rect x="28" y="158" width="66" height="50" rx="5" fill="#FFFFFF" />
+      <path d="M44 186 c-4 -8 -14 -5 -12 3 c1 6 8 10 12 13 c4 -3 11 -7 12 -13 c2 -8 -8 -11 -12 -3 z" fill="#F28B82" />
+      <path d="M64 196 q8 -14 20 -8" fill="none" stroke="#4285F4" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <path d="M150 184 l34 -34 l6 6 l-34 34 l-9 3 z" fill="#FFFFFF" stroke="#3C4043" stroke-width="3" stroke-linejoin="round" />
+    <ellipse cx="196" cy="150" rx="12" ry="17" fill="#F5A3D3" stroke="#BF7FA4" stroke-width="4.5" transform="rotate(-30 196 150)" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+.activity-skip-link {
+  position: fixed;
+  z-index: 1000;
+  top: 8px;
+  left: 8px;
+  transform: translateY(-160%);
+  padding: 12px 20px;
+  border-radius: 12px;
+  background: #fff;
+  color: #185abc;
+  border: 3px solid currentColor;
+  font-weight: 800;
+}
+.activity-skip-link:focus { transform: none; }
+#activity-content:focus { outline: none; }
+#activity-content :is(h1, h2)[tabindex="-1"] { scroll-margin-block: 80px; }
+#activity-content :is(h1, h2)[tabindex="-1"]:focus-visible {
+  outline: 3px solid #185abc;
+  outline-offset: 5px;
+  border-radius: 6px;
+}
+@media (forced-colors: active) {
+  .activity-skip-link { background: Canvas; color: LinkText; }
+  #activity-content :is(h1, h2)[tabindex="-1"]:focus-visible { outline-color: Highlight; }
+}

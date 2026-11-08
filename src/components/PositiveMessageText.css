@@ -1,0 +1,2 @@
+.positive-message-line { display:block; word-break:keep-all; overflow-wrap:break-word; text-wrap:balance; }
+.positive-message-line + .positive-message-line { margin-top:.18em; }

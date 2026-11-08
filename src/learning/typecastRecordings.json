@@ -1,0 +1,4740 @@
+{
+  "version": 1,
+  "sourceScriptSha256": "ad97d7a4c2b9e0eb6cf48e7f07196834bb5c88a8262c1b75b0b316a7d48647fe",
+  "recordings": [
+    {
+      "id": "mgps-001",
+      "text": "마음 지피에스에 오신 것을 환영해요.",
+      "fileName": "mgps-001.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-002",
+      "text": "화면을 터치해서 시작하세요.",
+      "fileName": "mgps-002.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-003",
+      "text": "문장, 그림과 단어, 그림 중에서 편한 방법을 골라요.",
+      "fileName": "mgps-003.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-004",
+      "text": "지금 마음이 어떤가요?",
+      "fileName": "mgps-004.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-005",
+      "text": "내 마음과 비슷한 표정을 하나 골라 주세요.",
+      "fileName": "mgps-005.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-006",
+      "text": "마음의 크기를 알려 주세요.",
+      "fileName": "mgps-006.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-007",
+      "text": "작게 느껴지면 작은 숫자를, 크게 느껴지면 큰 숫자를 골라 주세요.",
+      "fileName": "mgps-007.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-008",
+      "text": "숫자를 고른 뒤 다음을 눌러 주세요.",
+      "fileName": "mgps-008.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-009",
+      "text": "어떤 활동을 해 볼까요?",
+      "fileName": "mgps-009.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-010",
+      "text": "나에게 맞는 방법을 하나 골라요.",
+      "fileName": "mgps-010.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-011",
+      "text": "상황을 하나 골라요.",
+      "fileName": "mgps-011.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-012",
+      "text": "그 상황에서 어떤 마음이 들지 골라요.",
+      "fileName": "mgps-012.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-013",
+      "text": "원하는 부탁을 하나 골라요.",
+      "fileName": "mgps-013.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-014",
+      "text": "상황과 마음, 부탁을 연결해 내 마음을 전해 봐요.",
+      "fileName": "mgps-014.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-015",
+      "text": "말하거나, 보여 주거나, 가리켜도 좋아요.",
+      "fileName": "mgps-015.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-016",
+      "text": "내 마음을 돌보는 시간을 가졌어요.",
+      "fileName": "mgps-016.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-017",
+      "text": "수고했어요!",
+      "fileName": "mgps-017.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-018",
+      "text": "시범 그림을 보고, 나에게 편한 만큼 따라 해요.",
+      "fileName": "mgps-018.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-019",
+      "text": "발을 바닥에 두고, 나에게 편한 자세로 앉아요.",
+      "fileName": "mgps-019.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-020",
+      "text": "앉기 불편하면 서서 해도 괜찮아요.",
+      "fileName": "mgps-020.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-021",
+      "text": "눈을 뜨고 편한 곳을 바라봐요.",
+      "fileName": "mgps-021.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-022",
+      "text": "어깨를 편하게 내리고, 손의 힘을 풀어요.",
+      "fileName": "mgps-022.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-023",
+      "text": "몸을 억지로 움직이지 않아도 돼요.",
+      "fileName": "mgps-023.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-024",
+      "text": "편안한 만큼만 해 봐요.",
+      "fileName": "mgps-024.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-025",
+      "text": "내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "mgps-025.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-026",
+      "text": "숨을 크게 쉬려고 애쓰지 않아도 돼요.",
+      "fileName": "mgps-026.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-027",
+      "text": "평소처럼 자연스럽게 쉬어요.",
+      "fileName": "mgps-027.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-028",
+      "text": "숨을 편안하게 내쉬어요.",
+      "fileName": "mgps-028.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-029",
+      "text": "숨을 참지 않아요.",
+      "fileName": "mgps-029.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-030",
+      "text": "불편하면 동작을 멈추고 평소처럼 숨을 쉬어요.",
+      "fileName": "mgps-030.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-031",
+      "text": "네가 나를 놀리는 말을 하면 나는 불편해.",
+      "fileName": "mgps-031.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-032",
+      "text": "그런 말은 하지 말아 줘.",
+      "fileName": "mgps-032.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-033",
+      "text": "나한테 다정하게 말해 줘.",
+      "fileName": "mgps-033.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-034",
+      "text": "네가 나를 놀리는 말을 하면 나는 화가 나.",
+      "fileName": "mgps-034.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-035",
+      "text": "네가 나를 놀리는 말을 하면 나는 속상해.",
+      "fileName": "mgps-035.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-036",
+      "text": "네가 나를 놀리는 말을 하면 나는 걱정이 돼.",
+      "fileName": "mgps-036.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-037",
+      "text": "지금 하는 활동이 어려우면 저는 불편해요.",
+      "fileName": "mgps-037.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-038",
+      "text": "한 번 더 알려 주세요.",
+      "fileName": "mgps-038.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-039",
+      "text": "조금 더 쉬운 걸로 해 볼래요.",
+      "fileName": "mgps-039.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-040",
+      "text": "지금 하는 활동이 어려우면 저는 화가 나요.",
+      "fileName": "mgps-040.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-041",
+      "text": "지금 하는 활동이 어려우면 저는 속상해요.",
+      "fileName": "mgps-041.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-042",
+      "text": "지금 하는 활동이 어려우면 저는 걱정이 돼요.",
+      "fileName": "mgps-042.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-043",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 불편해요.",
+      "fileName": "mgps-043.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-044",
+      "text": "목소리를 조금 낮춰 주세요.",
+      "fileName": "mgps-044.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-045",
+      "text": "조용한 곳에서 잠깐 쉴 수 있게 도와주세요.",
+      "fileName": "mgps-045.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-046",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 화가 나요.",
+      "fileName": "mgps-046.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-047",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 속상해요.",
+      "fileName": "mgps-047.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-048",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 걱정이 돼요.",
+      "fileName": "mgps-048.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-049",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 불편해요.",
+      "fileName": "mgps-049.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-050",
+      "text": "지금 할 수 없는 이유를 알려 주세요.",
+      "fileName": "mgps-050.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-051",
+      "text": "언제 할 수 있는지 알려 주세요.",
+      "fileName": "mgps-051.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-052",
+      "text": "다른 활동을 골라 볼래요.",
+      "fileName": "mgps-052.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-053",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 화가 나요.",
+      "fileName": "mgps-053.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-054",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 속상해요.",
+      "fileName": "mgps-054.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-055",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 걱정이 돼요.",
+      "fileName": "mgps-055.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-056",
+      "text": "이야기로 연습해요",
+      "fileName": "mgps-056.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-057",
+      "text": "무슨 일이 있었나요?",
+      "fileName": "mgps-057.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-058",
+      "text": "어떤 생각이 들었나요?",
+      "fileName": "mgps-058.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-059",
+      "text": "나를 도와주는 생각을 살펴봐요.",
+      "fileName": "mgps-059.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-060",
+      "text": "다른 생각도 함께 찾아볼까요?",
+      "fileName": "mgps-060.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-061",
+      "text": "어떻게 생각할지 아직 모르겠어.",
+      "fileName": "mgps-061.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-062",
+      "text": "두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "mgps-062.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-063",
+      "text": "이야기 속 친구는 인사했는데 상대 친구가 대답하지 않았어요.",
+      "fileName": "mgps-063.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-064",
+      "text": "이야기 속 친구는 “쟤는 나를 싫어해. 무시한 거야.”라고 생각했어요.",
+      "fileName": "mgps-064.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-065",
+      "text": "친구와 함께 살펴볼 생각이에요.",
+      "fileName": "mgps-065.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-066",
+      "text": "못 들었을 수도 있어.",
+      "fileName": "mgps-066.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-067",
+      "text": "다음에 다시 인사해 보자.",
+      "fileName": "mgps-067.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-068",
+      "text": "이야기 속 친구와 함께 살펴봐요.",
+      "fileName": "mgps-068.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-069",
+      "text": "친구가 내 인사를 못 들었을 수도 있을까요?",
+      "fileName": "mgps-069.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-070",
+      "text": "인사했는데 친구가 대답하지 않았어요.",
+      "fileName": "mgps-070.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-071",
+      "text": "쟤는 나를 싫어해.",
+      "fileName": "mgps-071.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-072",
+      "text": "무시한 거야.",
+      "fileName": "mgps-072.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-073",
+      "text": "이야기 속 친구를 빼고 다른 친구들이 이야기하며 웃었어요.",
+      "fileName": "mgps-073.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-074",
+      "text": "이야기 속 친구는 “내 욕을 하는 게 분명해.”라고 생각했어요.",
+      "fileName": "mgps-074.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-075",
+      "text": "다른 이야기일 수도 있어.",
+      "fileName": "mgps-075.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-076",
+      "text": "궁금하면 물어봐도 돼.",
+      "fileName": "mgps-076.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-077",
+      "text": "친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요?",
+      "fileName": "mgps-077.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-078",
+      "text": "친구들이 나를 빼고 이야기하며 웃어요.",
+      "fileName": "mgps-078.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-079",
+      "text": "내 욕을 하는 게 분명해.",
+      "fileName": "mgps-079.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-080",
+      "text": "이야기 속 친구의 짝꿍은 다른 친구와 더 친하게 지냈어요.",
+      "fileName": "mgps-080.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-081",
+      "text": "이야기 속 친구는 “친구는 나랑만 놀아야 해. 이제 난 혼자야.”라고 생각했어요.",
+      "fileName": "mgps-081.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-082",
+      "text": "친구는 여러 친구와 친하게 지낼 수 있어.",
+      "fileName": "mgps-082.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-083",
+      "text": "나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "mgps-083.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-084",
+      "text": "여러 친구와 어울리며 새로운 즐거움을 찾을 수 있어요.",
+      "fileName": "mgps-084.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-085",
+      "text": "여러 친구와 어울려 볼 수 있어요.",
+      "fileName": "mgps-085.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-086",
+      "text": "짝꿍이 다른 친구와 더 친하게 지내요.",
+      "fileName": "mgps-086.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-087",
+      "text": "친구는 나랑만 놀아야 해.",
+      "fileName": "mgps-087.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-088",
+      "text": "이제 난 혼자야.",
+      "fileName": "mgps-088.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-089",
+      "text": "이야기 속 친구는 다른 친구에게 부탁했지만 거절당했어요.",
+      "fileName": "mgps-089.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-090",
+      "text": "이야기 속 친구는 “친구라면 무조건 들어줘야지. 배신이야.”라고 생각했어요.",
+      "fileName": "mgps-090.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-091",
+      "text": "친구도 사정이 있을 수 있어.",
+      "fileName": "mgps-091.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-092",
+      "text": "거절해도 친구는 친구야.",
+      "fileName": "mgps-092.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-093",
+      "text": "친구도 내 부탁을 들어주기 어려운 때가 있을까요?",
+      "fileName": "mgps-093.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-094",
+      "text": "친구가 내 부탁을 거절했어요.",
+      "fileName": "mgps-094.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-095",
+      "text": "친구라면 무조건 들어줘야지.",
+      "fileName": "mgps-095.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-096",
+      "text": "배신이야.",
+      "fileName": "mgps-096.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-097",
+      "text": "이야기 속 친구는 다른 친구와 다퉜어요.",
+      "fileName": "mgps-097.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-098",
+      "text": "이야기 속 친구는 “이제 다시는 친해질 수 없어.”라고 생각했어요.",
+      "fileName": "mgps-098.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-099",
+      "text": "다퉈도 다시 이야기해 볼 수 있어.",
+      "fileName": "mgps-099.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-100",
+      "text": "마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "mgps-100.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-101",
+      "text": "마음이 가라앉으면 다시 이야기해 볼 수 있어요.",
+      "fileName": "mgps-101.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-102",
+      "text": "어렵다면 도움을 부탁해도 괜찮아요.",
+      "fileName": "mgps-102.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-103",
+      "text": "진정한 뒤 이야기해 봐요.",
+      "fileName": "mgps-103.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-104",
+      "text": "도움을 부탁해도 괜찮아요.",
+      "fileName": "mgps-104.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-105",
+      "text": "친구랑 다퉜어요.",
+      "fileName": "mgps-105.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-106",
+      "text": "이제 다시는 친해질 수 없어.",
+      "fileName": "mgps-106.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-107",
+      "text": "마음이 가라앉으면 다시 이야기하자.",
+      "fileName": "mgps-107.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-108",
+      "text": "선생님, 친구와 이야기할 수 있게 도와주세요.",
+      "fileName": "mgps-108.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-109",
+      "text": "이야기 속 친구는 문제를 틀렸어요.",
+      "fileName": "mgps-109.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-110",
+      "text": "이야기 속 친구는 “나는 바보야. 아무것도 못 해.”라고 생각했어요.",
+      "fileName": "mgps-110.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-111",
+      "text": "틀릴 수 있어.",
+      "fileName": "mgps-111.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-112",
+      "text": "왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "mgps-112.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-113",
+      "text": "틀릴 수 있어요.",
+      "fileName": "mgps-113.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-114",
+      "text": "왜 틀렸는지 확인하고 다시 한번 살펴봐요.",
+      "fileName": "mgps-114.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-115",
+      "text": "왜 틀렸는지 함께 살펴봐요.",
+      "fileName": "mgps-115.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-116",
+      "text": "문제를 틀렸어요.",
+      "fileName": "mgps-116.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-117",
+      "text": "나는 바보야.",
+      "fileName": "mgps-117.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-118",
+      "text": "아무것도 못 해.",
+      "fileName": "mgps-118.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-119",
+      "text": "이야기 속 친구는 활동이 어려웠어요.",
+      "fileName": "mgps-119.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-120",
+      "text": "이야기 속 친구는 “어려우니까 나는 절대 못 해.”라고 생각했어요.",
+      "fileName": "mgps-120.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-121",
+      "text": "어려울 때는 도움을 부탁해도 괜찮아.",
+      "fileName": "mgps-121.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-122",
+      "text": "설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "mgps-122.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-123",
+      "text": "어려운 부분은 도움을 부탁할 수 있어요.",
+      "fileName": "mgps-123.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-124",
+      "text": "한 번 더 듣거나 방법을 천천히 생각해 봐요.",
+      "fileName": "mgps-124.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-125",
+      "text": "도움을 부탁하거나 천천히 생각해 봐요.",
+      "fileName": "mgps-125.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-126",
+      "text": "활동이 어려워요.",
+      "fileName": "mgps-126.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-127",
+      "text": "어려우니까 나는 절대 못 해.",
+      "fileName": "mgps-127.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-128",
+      "text": "한 번 더 설명해 주세요.",
+      "fileName": "mgps-128.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-129",
+      "text": "어떻게 할지 다시 생각해 볼래요.",
+      "fileName": "mgps-129.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-130",
+      "text": "이야기 속 친구는 친구들 앞에서 발표해야 했어요.",
+      "fileName": "mgps-130.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-131",
+      "text": "이야기 속 친구는 “실수하면 다 비웃을 거야. 끔찍해.”라고 생각했어요.",
+      "fileName": "mgps-131.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-132",
+      "text": "실수해도 괜찮아.",
+      "fileName": "mgps-132.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-133",
+      "text": "떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "mgps-133.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-134",
+      "text": "떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요.",
+      "fileName": "mgps-134.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-135",
+      "text": "친구들 앞에서 발표해야 해요.",
+      "fileName": "mgps-135.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-136",
+      "text": "실수하면 다 비웃을 거야.",
+      "fileName": "mgps-136.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-137",
+      "text": "끔찍해.",
+      "fileName": "mgps-137.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-138",
+      "text": "이야기 속 친구는 다른 친구들보다 늦게 활동을 끝냈어요.",
+      "fileName": "mgps-138.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-139",
+      "text": "이야기 속 친구는 “나는 항상 제일 느려. 난 안 돼.”라고 생각했어요.",
+      "fileName": "mgps-139.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-140",
+      "text": "끝까지 해냈어.",
+      "fileName": "mgps-140.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-141",
+      "text": "내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "mgps-141.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-142",
+      "text": "끝까지 잘 해냈어요.",
+      "fileName": "mgps-142.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-143",
+      "text": "앞으로도 차근차근 해 나가 봐요.",
+      "fileName": "mgps-143.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-144",
+      "text": "끝까지 해냈어요.",
+      "fileName": "mgps-144.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-145",
+      "text": "차근차근 해 봐요.",
+      "fileName": "mgps-145.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-146",
+      "text": "친구들보다 늦게 활동을 끝냈어요.",
+      "fileName": "mgps-146.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-147",
+      "text": "나는 항상 제일 느려.",
+      "fileName": "mgps-147.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-148",
+      "text": "난 안 돼.",
+      "fileName": "mgps-148.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-149",
+      "text": "이야기 속 친구가 발표할 때 다른 친구들이 그 친구를 바라보았어요.",
+      "fileName": "mgps-149.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-150",
+      "text": "이야기 속 친구는 “나를 나쁘게 봐서 쳐다보는 거야.”라고 생각했어요.",
+      "fileName": "mgps-150.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-151",
+      "text": "친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "mgps-151.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-152",
+      "text": "친구들은 발표 내용이 궁금해서 바라볼 수도 있어요.",
+      "fileName": "mgps-152.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-153",
+      "text": "발표를 들으려고 바라볼 수도 있어요.",
+      "fileName": "mgps-153.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-154",
+      "text": "내가 발표할 때 친구들이 나를 바라봐요.",
+      "fileName": "mgps-154.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-155",
+      "text": "나를 나쁘게 봐서 쳐다보는 거야.",
+      "fileName": "mgps-155.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-156",
+      "text": "이야기 속 친구는 지나가다가 실수로 다른 친구와 부딪혔어요.",
+      "fileName": "mgps-156.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-157",
+      "text": "이야기 속 친구는 “실수했으니까 나는 나쁜 친구야.”라고 생각했어요.",
+      "fileName": "mgps-157.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-158",
+      "text": "실수했다고 나쁜 친구가 되는 건 아니야.",
+      "fileName": "add-20261011-08.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-159",
+      "text": "친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "mgps-159.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-160",
+      "text": "한 번의 실수로 나쁜 친구가 되는 건 아니에요.",
+      "fileName": "mgps-160.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-161",
+      "text": "친구가 괜찮은지 살피고 미안한 마음을 전해 봐요.",
+      "fileName": "mgps-161.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-162",
+      "text": "실수해도 나쁜 친구는 아니에요.",
+      "fileName": "mgps-162.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-163",
+      "text": "친구를 살펴봐요.",
+      "fileName": "mgps-163.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-164",
+      "text": "지나가다가 실수로 친구와 부딪혔어요.",
+      "fileName": "mgps-164.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-165",
+      "text": "실수했으니까 나는 나쁜 친구야.",
+      "fileName": "mgps-165.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-166",
+      "text": "괜찮아?",
+      "fileName": "mgps-166.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-167",
+      "text": "부딪혀서 미안해.",
+      "fileName": "mgps-167.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-168",
+      "text": "선생님, 친구와 부딪혔어요.",
+      "fileName": "mgps-168.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-169",
+      "text": "도와주세요.",
+      "fileName": "mgps-169.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-170",
+      "text": "이야기 속 친구는 선생님께 화가 나서 큰 소리로 말했어요.",
+      "fileName": "mgps-170.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-171",
+      "text": "이야기 속 친구는 “나는 나쁜 학생이야. 선생님은 이제 나를 싫어하실 거야.”라고 생각했어요.",
+      "fileName": "mgps-171.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-172",
+      "text": "화가 나도 다른 방법으로 말할 수 있어.",
+      "fileName": "mgps-172.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-173",
+      "text": "큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "mgps-173.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-174",
+      "text": "한 번의 행동으로 나쁜 학생이 되는 건 아니에요.",
+      "fileName": "mgps-174.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-175",
+      "text": "마음이 가라앉으면 다시 이야기해 봐요.",
+      "fileName": "mgps-175.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-176",
+      "text": "나쁜 학생이 되는 건 아니에요.",
+      "fileName": "mgps-176.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-177",
+      "text": "선생님께 화가 나서 큰 소리로 말했어요.",
+      "fileName": "mgps-177.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-178",
+      "text": "나는 나쁜 학생이야.",
+      "fileName": "mgps-178.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-179",
+      "text": "선생님은 이제 나를 싫어하실 거야.",
+      "fileName": "mgps-179.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-180",
+      "text": "선생님, 큰 소리로 말해서 죄송해요.",
+      "fileName": "mgps-180.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-181",
+      "text": "선생님, 제 마음도 말씀드리고 싶어요.",
+      "fileName": "mgps-181.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-182",
+      "text": "이야기 속 친구는 실습을 하다가 실수했어요.",
+      "fileName": "mgps-182.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-183",
+      "text": "이야기 속 친구는 “나는 이 일을 절대 못 해.”라고 생각했어요.",
+      "fileName": "mgps-183.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-184",
+      "text": "실수는 연습하는 과정이야.",
+      "fileName": "mgps-184.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-185",
+      "text": "다음엔 더 잘할 수 있어.",
+      "fileName": "mgps-185.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-186",
+      "text": "한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요?",
+      "fileName": "mgps-186.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-187",
+      "text": "실습을 하다가 실수했어요.",
+      "fileName": "mgps-187.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-188",
+      "text": "나는 이 일을 절대 못 해.",
+      "fileName": "mgps-188.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-189",
+      "text": "이야기 속 친구는 시합이나 게임에서 졌어요.",
+      "fileName": "mgps-189.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-190",
+      "text": "이야기 속 친구는 “나는 무조건 이겨야 해. 지는 건 못 참아.”라고 생각했어요.",
+      "fileName": "mgps-190.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-191",
+      "text": "이기고 싶었지만 질 수도 있어.",
+      "fileName": "mgps-191.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-192",
+      "text": "즐겁게 한 것도 의미 있어.",
+      "fileName": "mgps-192.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-193",
+      "text": "이기고 싶은 마음이 있어도 시합이나 게임에서 질 때가 있어요.",
+      "fileName": "mgps-193.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-194",
+      "text": "게임은 이길 때도, 질 때도 있어요.",
+      "fileName": "mgps-194.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-195",
+      "text": "시합이나 게임에서 졌어요.",
+      "fileName": "mgps-195.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-196",
+      "text": "나는 무조건 이겨야 해.",
+      "fileName": "mgps-196.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-197",
+      "text": "지는 건 못 참아.",
+      "fileName": "mgps-197.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-198",
+      "text": "이야기 속 친구는 선생님께 지적을 받았어요.",
+      "fileName": "mgps-198.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-199",
+      "text": "이야기 속 친구는 “선생님은 나만 미워해.”라고 생각했어요.",
+      "fileName": "mgps-199.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-200",
+      "text": "고칠 부분을 알려 주신 걸 수도 있어.",
+      "fileName": "mgps-200.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-201",
+      "text": "어떤 뜻인지 물어봐도 돼.",
+      "fileName": "mgps-201.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-202",
+      "text": "선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요?",
+      "fileName": "mgps-202.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-203",
+      "text": "선생님께 지적을 받았어요.",
+      "fileName": "mgps-203.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-204",
+      "text": "선생님은 나만 미워해.",
+      "fileName": "mgps-204.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-205",
+      "text": "이야기 속 친구는 하고 싶은 활동을 지금 할 수 없었어요.",
+      "fileName": "mgps-205.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-206",
+      "text": "이야기 속 친구는 “원하는 건 지금 꼭 해야 해.”라고 생각했어요.",
+      "fileName": "mgps-206.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-207",
+      "text": "지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "mgps-207.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-208",
+      "text": "지금 하기 어려운 이유가 있을 수 있어요.",
+      "fileName": "mgps-208.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-209",
+      "text": "가능한 때나 방법도 물어볼 수 있어요.",
+      "fileName": "mgps-209.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-210",
+      "text": "이유를 듣고 가능한 방법을 물어봐요.",
+      "fileName": "mgps-210.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-211",
+      "text": "하고 싶은 활동을 지금 할 수 없어요.",
+      "fileName": "mgps-211.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-212",
+      "text": "원하는 건 지금 꼭 해야 해.",
+      "fileName": "mgps-212.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-213",
+      "text": "이야기 속 친구만 혼나고 다른 친구는 혼나지 않았어요.",
+      "fileName": "mgps-213.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-214",
+      "text": "이야기 속 친구는 “세상은 불공평해. 나만 손해 봐.”라고 생각했어요.",
+      "fileName": "mgps-214.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-215",
+      "text": "억울한 마음이 들 수 있어.",
+      "fileName": "mgps-215.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-216",
+      "text": "차분하게 내 생각을 말해 보자.",
+      "fileName": "mgps-216.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-217",
+      "text": "억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요.",
+      "fileName": "mgps-217.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-218",
+      "text": "친구는 혼나지 않고 나만 혼났어요.",
+      "fileName": "mgps-218.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-219",
+      "text": "세상은 불공평해.",
+      "fileName": "mgps-219.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-220",
+      "text": "나만 손해 봐.",
+      "fileName": "mgps-220.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-221",
+      "text": "이야기 속 친구는 다른 친구가 칭찬받는 모습을 보았어요.",
+      "fileName": "mgps-221.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-222",
+      "text": "이야기 속 친구는 “나는 칭찬받을 게 하나도 없어.”라고 생각했어요.",
+      "fileName": "mgps-222.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-223",
+      "text": "친구의 멋진 모습을 함께 기뻐해 주자.",
+      "fileName": "mgps-223.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-224",
+      "text": "나에게도 잘하는 게 있어.",
+      "fileName": "mgps-224.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-225",
+      "text": "친구가 잘한 일을 함께 기뻐하고, 내가 잘하는 것도 떠올려 봐요.",
+      "fileName": "mgps-225.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-226",
+      "text": "친구와 함께 기뻐해요.",
+      "fileName": "mgps-226.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-227",
+      "text": "나도 잘하는 게 있어요.",
+      "fileName": "mgps-227.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-228",
+      "text": "친구가 칭찬을 받았어요.",
+      "fileName": "mgps-228.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-229",
+      "text": "나는 칭찬받을 게 하나도 없어.",
+      "fileName": "mgps-229.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-230",
+      "text": "이야기 속 친구는 다른 친구가 자신보다 더 잘하는 모습을 보았어요.",
+      "fileName": "mgps-230.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-231",
+      "text": "이야기 속 친구는 “나는 누구보다 잘해야 해.”라고 생각했어요.",
+      "fileName": "mgps-231.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-232",
+      "text": "친구에게 배울 수도 있어.",
+      "fileName": "mgps-232.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-233",
+      "text": "나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "mgps-233.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-234",
+      "text": "친구의 방법을 참고하며 나에게 맞는 속도로 연습해도 괜찮아요.",
+      "fileName": "mgps-234.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-235",
+      "text": "친구의 방법을 보고, 내 속도로 연습해 봐요.",
+      "fileName": "mgps-235.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-236",
+      "text": "친구가 나보다 더 잘해요.",
+      "fileName": "mgps-236.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-237",
+      "text": "나는 누구보다 잘해야 해.",
+      "fileName": "mgps-237.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-238",
+      "text": "이야기 속 친구는 상을 받지 못했어요.",
+      "fileName": "mgps-238.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-239",
+      "text": "이야기 속 친구는 “노력해도 소용없어.”라고 생각했어요.",
+      "fileName": "mgps-239.mp3",
+      "verified": false
+    },
+    {
+      "id": "mgps-240",
+      "text": "이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "mgps-240.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-241",
+      "text": "상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요?",
+      "fileName": "mgps-241.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-242",
+      "text": "상을 받지 못했어요.",
+      "fileName": "mgps-242.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-243",
+      "text": "노력해도 소용없어.",
+      "fileName": "mgps-243.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-244",
+      "text": "다른 친구가 이야기 속 친구의 외모를 놀렸어요.",
+      "fileName": "mgps-244.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-245",
+      "text": "이야기 속 친구는 “그 말이 맞아. 나는 못생겼어.”라고 생각했어요.",
+      "fileName": "mgps-245.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-246",
+      "text": "친구가 놀려도 나는 소중한 사람이야.",
+      "fileName": "mgps-246.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-247",
+      "text": "도움을 받아도 돼.",
+      "fileName": "mgps-247.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-248",
+      "text": "외모를 놀리는 말 때문에 혼자 참을 필요는 없어요.",
+      "fileName": "mgps-248.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-249",
+      "text": "친구가 내 외모를 놀려요.",
+      "fileName": "mgps-249.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-250",
+      "text": "그 말이 맞아.",
+      "fileName": "mgps-250.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-251",
+      "text": "나는 못생겼어.",
+      "fileName": "mgps-251.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-252",
+      "text": "그런 말은 싫어.",
+      "fileName": "mgps-252.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-253",
+      "text": "그만해 줘.",
+      "fileName": "mgps-253.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-254",
+      "text": "선생님, 친구가 외모를 놀려요.",
+      "fileName": "mgps-254.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-255",
+      "text": "이야기 속 친구에게는 싫어하는 별명이 있었어요.",
+      "fileName": "mgps-255.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-256",
+      "text": "다른 친구가 그 별명을 불렀어요.",
+      "fileName": "mgps-256.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-257",
+      "text": "이야기 속 친구는 “나를 놀리면 똑같이 갚아 줘야 해.”라고 생각했어요.",
+      "fileName": "mgps-257.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-258",
+      "text": "화가 날 수 있어.",
+      "fileName": "mgps-258.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-259",
+      "text": "싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "mgps-259.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-260",
+      "text": "싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요.",
+      "fileName": "mgps-260.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-261",
+      "text": "친구가 내가 싫어하는 별명을 불러요.",
+      "fileName": "mgps-261.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-262",
+      "text": "나를 놀리면 똑같이 갚아 줘야 해.",
+      "fileName": "mgps-262.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-263",
+      "text": "그 별명은 싫어.",
+      "fileName": "mgps-263.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-264",
+      "text": "내 이름으로 불러 줘.",
+      "fileName": "mgps-264.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-265",
+      "text": "선생님, 친구가 싫은 별명을 불러요.",
+      "fileName": "mgps-265.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-266",
+      "text": "이야기 속 친구의 시간표가 갑자기 바뀌었어요.",
+      "fileName": "mgps-266.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-267",
+      "text": "이야기 속 친구는 “원래대로 해야 해. 다 망했어.”라고 생각했어요.",
+      "fileName": "mgps-267.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-268",
+      "text": "바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "mgps-268.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-269",
+      "text": "바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요.",
+      "fileName": "mgps-269.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-270",
+      "text": "시간표가 갑자기 바뀌었어요.",
+      "fileName": "mgps-270.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-271",
+      "text": "원래대로 해야 해.",
+      "fileName": "mgps-271.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-272",
+      "text": "다 망했어.",
+      "fileName": "mgps-272.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-273",
+      "text": "이야기 속 친구가 좋아하는 활동이 취소됐어요.",
+      "fileName": "mgps-273.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-274",
+      "text": "이야기 속 친구는 “오늘 하루는 완전히 망했어.”라고 생각했어요.",
+      "fileName": "mgps-274.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-275",
+      "text": "아쉽지만 다른 활동을 찾아볼 수 있어.",
+      "fileName": "mgps-275.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-276",
+      "text": "다음에 할 수 있을지 물어보자.",
+      "fileName": "mgps-276.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-277",
+      "text": "취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요.",
+      "fileName": "mgps-277.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-278",
+      "text": "좋아하는 활동이 취소됐어요.",
+      "fileName": "mgps-278.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-279",
+      "text": "오늘 하루는 완전히 망했어.",
+      "fileName": "mgps-279.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-280",
+      "text": "이야기 속 친구는 처음 가는 장소에 가게 됐어요.",
+      "fileName": "mgps-280.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-281",
+      "text": "이야기 속 친구는 “분명히 나쁜 일이 생길 거야.”라고 생각했어요.",
+      "fileName": "mgps-281.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-282",
+      "text": "처음이라 걱정되는 거야.",
+      "fileName": "mgps-282.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-283",
+      "text": "모르면 물어보면 돼.",
+      "fileName": "mgps-283.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-284",
+      "text": "모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요.",
+      "fileName": "mgps-284.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-285",
+      "text": "처음 가는 장소에 가요.",
+      "fileName": "mgps-285.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-286",
+      "text": "분명히 나쁜 일이 생길 거야.",
+      "fileName": "mgps-286.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-287",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 편한 자세로 시범을 살펴봐요.",
+      "fileName": "mgps-287.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-288",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요.",
+      "fileName": "mgps-288.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-289",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 어깨를 편하게 내리고, 손의 힘을 풀어요.",
+      "fileName": "mgps-289.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-290",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "mgps-290.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-291",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 숨을 편안하게 내쉬어요.",
+      "fileName": "mgps-291.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-292",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 빗소리를 편안한 크기로 들으며 잠깐 쉬어요.",
+      "fileName": "mgps-292.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-293",
+      "text": "소리가 불편하면 멈추고 쉬어요.",
+      "fileName": "mgps-293.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-294",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 파도 소리를 편안한 크기로 들으며 잠깐 쉬어요.",
+      "fileName": "mgps-294.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-295",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 모닥불 소리를 편안한 크기로 들으며 잠깐 쉬어요.",
+      "fileName": "mgps-295.mp3",
+      "verified": true
+    },
+    {
+      "id": "mgps-296",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 숲 소리를 편안한 크기로 들으며 잠깐 쉬어요.",
+      "fileName": "mgps-296.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_start",
+      "text": "마음 지피에스에 오신 것을 환영해요. 화면을 터치해서 시작하세요.",
+      "fileName": "guide_start.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_level",
+      "text": "문장, 그림과 단어, 그림 중에서 편한 방법을 골라요.",
+      "fileName": "mgps-003.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_emotion",
+      "text": "지금 마음이 어떤가요? 내 마음과 비슷한 표정을 하나 골라 주세요.",
+      "fileName": "guide_emotion.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_intensity",
+      "text": "마음의 크기를 알려 주세요. 작게 느껴지면 작은 숫자를, 크게 느껴지면 큰 숫자를 골라 주세요. 숫자를 고른 뒤 다음을 눌러 주세요.",
+      "fileName": "guide_intensity.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_activity",
+      "text": "어떤 활동을 해 볼까요? 나에게 맞는 방법을 하나 골라요.",
+      "fileName": "guide_activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_i_message",
+      "text": "상황을 하나 골라요. 그 상황에서 어떤 마음이 들지 골라요. 원하는 부탁을 하나 골라요. 상황과 마음, 부탁을 연결해 내 마음을 전해 봐요. 말하거나, 보여 주거나, 가리켜도 좋아요.",
+      "fileName": "guide_i_message.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_praise",
+      "text": "내 마음을 돌보는 시간을 가졌어요. 수고했어요!",
+      "fileName": "guide_praise.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_relax",
+      "text": "시범 그림을 보고, 나에게 편한 만큼 따라 해요. 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 앉기 불편하면 서서 해도 괜찮아요. 눈을 뜨고 편한 곳을 바라봐요. 어깨를 편하게 내리고, 손의 힘을 풀어요. 몸을 억지로 움직이지 않아도 돼요. 편안한 만큼만 해 봐요. 내 속도에 맞게 편안하게 숨을 들이쉬어요. 숨을 크게 쉬려고 애쓰지 않아도 돼요. 평소처럼 자연스럽게 쉬어요. 숨을 편안하게 내쉬어요. 숨을 참지 않아요. 불편하면 동작을 멈추고 평소처럼 숨을 쉬어요.",
+      "fileName": "guide_relax.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-uncomfortable-stop-teasing",
+      "text": "네가 나를 놀리는 말을 하면 나는 불편해. 그런 말은 하지 말아 줘.",
+      "fileName": "imessage-friend-teasing-uncomfortable-stop-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-uncomfortable-kind-words",
+      "text": "네가 나를 놀리는 말을 하면 나는 불편해. 나한테 다정하게 말해 줘.",
+      "fileName": "imessage-friend-teasing-uncomfortable-kind-words.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-angry-stop-teasing",
+      "text": "네가 나를 놀리는 말을 하면 나는 화가 나. 그런 말은 하지 말아 줘.",
+      "fileName": "imessage-friend-teasing-angry-stop-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-angry-kind-words",
+      "text": "네가 나를 놀리는 말을 하면 나는 화가 나. 나한테 다정하게 말해 줘.",
+      "fileName": "imessage-friend-teasing-angry-kind-words.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-sad-stop-teasing",
+      "text": "네가 나를 놀리는 말을 하면 나는 속상해. 그런 말은 하지 말아 줘.",
+      "fileName": "imessage-friend-teasing-sad-stop-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-sad-kind-words",
+      "text": "네가 나를 놀리는 말을 하면 나는 속상해. 나한테 다정하게 말해 줘.",
+      "fileName": "imessage-friend-teasing-sad-kind-words.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-worried-stop-teasing",
+      "text": "네가 나를 놀리는 말을 하면 나는 걱정이 돼. 그런 말은 하지 말아 줘.",
+      "fileName": "imessage-friend-teasing-worried-stop-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-friend-teasing-worried-kind-words",
+      "text": "네가 나를 놀리는 말을 하면 나는 걱정이 돼. 나한테 다정하게 말해 줘.",
+      "fileName": "imessage-friend-teasing-worried-kind-words.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-uncomfortable-repeat-explanation",
+      "text": "지금 하는 활동이 어려우면 저는 불편해요. 한 번 더 알려 주세요.",
+      "fileName": "imessage-activity-difficult-uncomfortable-repeat-explanation.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-uncomfortable-easier-activity",
+      "text": "지금 하는 활동이 어려우면 저는 불편해요. 조금 더 쉬운 걸로 해 볼래요.",
+      "fileName": "imessage-activity-difficult-uncomfortable-easier-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-angry-repeat-explanation",
+      "text": "지금 하는 활동이 어려우면 저는 화가 나요. 한 번 더 알려 주세요.",
+      "fileName": "imessage-activity-difficult-angry-repeat-explanation.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-angry-easier-activity",
+      "text": "지금 하는 활동이 어려우면 저는 화가 나요. 조금 더 쉬운 걸로 해 볼래요.",
+      "fileName": "imessage-activity-difficult-angry-easier-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-sad-repeat-explanation",
+      "text": "지금 하는 활동이 어려우면 저는 속상해요. 한 번 더 알려 주세요.",
+      "fileName": "imessage-activity-difficult-sad-repeat-explanation.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-sad-easier-activity",
+      "text": "지금 하는 활동이 어려우면 저는 속상해요. 조금 더 쉬운 걸로 해 볼래요.",
+      "fileName": "imessage-activity-difficult-sad-easier-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-worried-repeat-explanation",
+      "text": "지금 하는 활동이 어려우면 저는 걱정이 돼요. 한 번 더 알려 주세요.",
+      "fileName": "imessage-activity-difficult-worried-repeat-explanation.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-difficult-worried-easier-activity",
+      "text": "지금 하는 활동이 어려우면 저는 걱정이 돼요. 조금 더 쉬운 걸로 해 볼래요.",
+      "fileName": "imessage-activity-difficult-worried-easier-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-uncomfortable-quieter",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 불편해요. 목소리를 조금 낮춰 주세요.",
+      "fileName": "imessage-noise-uncomfortable-quieter.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-uncomfortable-quiet-place",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 불편해요. 조용한 곳에서 잠깐 쉴 수 있게 도와주세요.",
+      "fileName": "imessage-noise-uncomfortable-quiet-place.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-angry-quieter",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 화가 나요. 목소리를 조금 낮춰 주세요.",
+      "fileName": "imessage-noise-angry-quieter.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-angry-quiet-place",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 화가 나요. 조용한 곳에서 잠깐 쉴 수 있게 도와주세요.",
+      "fileName": "imessage-noise-angry-quiet-place.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-sad-quieter",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 속상해요. 목소리를 조금 낮춰 주세요.",
+      "fileName": "imessage-noise-sad-quieter.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-sad-quiet-place",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 속상해요. 조용한 곳에서 잠깐 쉴 수 있게 도와주세요.",
+      "fileName": "imessage-noise-sad-quiet-place.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-worried-quieter",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 걱정이 돼요. 목소리를 조금 낮춰 주세요.",
+      "fileName": "imessage-noise-worried-quieter.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-noise-worried-quiet-place",
+      "text": "주변 사람이 큰 목소리로 말하면 저는 걱정이 돼요. 조용한 곳에서 잠깐 쉴 수 있게 도와주세요.",
+      "fileName": "imessage-noise-worried-quiet-place.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-uncomfortable-unavailable-reason",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 불편해요. 지금 할 수 없는 이유를 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-uncomfortable-unavailable-reason.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-uncomfortable-available-time",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 불편해요. 언제 할 수 있는지 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-uncomfortable-available-time.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-uncomfortable-choose-other-activity",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 불편해요. 다른 활동을 골라 볼래요.",
+      "fileName": "imessage-activity-unavailable-uncomfortable-choose-other-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-angry-unavailable-reason",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 화가 나요. 지금 할 수 없는 이유를 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-angry-unavailable-reason.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-angry-available-time",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 화가 나요. 언제 할 수 있는지 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-angry-available-time.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-angry-choose-other-activity",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 화가 나요. 다른 활동을 골라 볼래요.",
+      "fileName": "imessage-activity-unavailable-angry-choose-other-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-sad-unavailable-reason",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 속상해요. 지금 할 수 없는 이유를 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-sad-unavailable-reason.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-sad-available-time",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 속상해요. 언제 할 수 있는지 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-sad-available-time.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-sad-choose-other-activity",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 속상해요. 다른 활동을 골라 볼래요.",
+      "fileName": "imessage-activity-unavailable-sad-choose-other-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-worried-unavailable-reason",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 걱정이 돼요. 지금 할 수 없는 이유를 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-worried-unavailable-reason.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-worried-available-time",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 걱정이 돼요. 언제 할 수 있는지 알려 주세요.",
+      "fileName": "imessage-activity-unavailable-worried-available-time.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-activity-unavailable-worried-choose-other-activity",
+      "text": "하고 싶은 활동을 지금 할 수 없으면 저는 걱정이 돼요. 다른 활동을 골라 볼래요.",
+      "fileName": "imessage-activity-unavailable-worried-choose-other-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "story-menu",
+      "text": "이야기로 연습해요",
+      "fileName": "mgps-056.mp3",
+      "verified": true
+    },
+    {
+      "id": "custom-menu",
+      "text": "무슨 일이 있었나요?",
+      "fileName": "mgps-057.mp3",
+      "verified": true
+    },
+    {
+      "id": "custom-thought-prompt",
+      "text": "어떤 생각이 들었나요?",
+      "fileName": "mgps-058.mp3",
+      "verified": true
+    },
+    {
+      "id": "custom-helpful-prompt",
+      "text": "나를 도와주는 생각을 살펴봐요.",
+      "fileName": "mgps-059.mp3",
+      "verified": true
+    },
+    {
+      "id": "custom-check",
+      "text": "다른 생각도 함께 찾아볼까요?",
+      "fileName": "mgps-060.mp3",
+      "verified": true
+    },
+    {
+      "id": "custom-unknown",
+      "text": "어떻게 생각할지 아직 모르겠어.",
+      "fileName": "mgps-061.mp3",
+      "verified": true
+    },
+    {
+      "id": "game-instruction",
+      "text": "두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "mgps-062.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-story-situation",
+      "text": "이야기 속 친구는 인사했는데 상대 친구가 대답하지 않았어요.",
+      "fileName": "mgps-063.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-story-thought",
+      "text": "이야기 속 친구는 “쟤는 나를 싫어해. 무시한 거야.”라고 생각했어요.",
+      "fileName": "mgps-064.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 못 들었을 수도 있어. 다음에 다시 인사해 보자.",
+      "fileName": "v24-greeting-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구가 내 인사를 못 들었을 수도 있을까요?",
+      "fileName": "v24-greeting-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구가 내 인사를 못 들었을 수도 있을까요?",
+      "fileName": "v24-greeting-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-game-situation",
+      "text": "인사했는데 친구가 대답하지 않았어요.",
+      "fileName": "mgps-070.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-game-thought",
+      "text": "쟤는 나를 싫어해. 무시한 거야.",
+      "fileName": "v24-greeting-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-game-helpful",
+      "text": "못 들었을 수도 있어. 다음에 다시 인사해 보자.",
+      "fileName": "v24-greeting-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-game-check",
+      "text": "친구가 내 인사를 못 들었을 수도 있을까요?",
+      "fileName": "mgps-069.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-game-picture-check",
+      "text": "친구가 내 인사를 못 들었을 수도 있을까요?",
+      "fileName": "mgps-069.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-maze-start",
+      "text": "인사했는데 친구가 대답하지 않았어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-greeting-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-maze-hint",
+      "text": "친구가 내 인사를 못 들었을 수도 있을까요? 못 들었을 수도 있어. 다음에 다시 인사해 보자.",
+      "fileName": "v24-greeting-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-greeting-maze-picture-hint",
+      "text": "친구가 내 인사를 못 들었을 수도 있을까요? 못 들었을 수도 있어. 다음에 다시 인사해 보자.",
+      "fileName": "v24-greeting-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-story-situation",
+      "text": "이야기 속 친구를 빼고 다른 친구들이 이야기하며 웃었어요.",
+      "fileName": "mgps-073.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-story-thought",
+      "text": "이야기 속 친구는 “내 욕을 하는 게 분명해.”라고 생각했어요.",
+      "fileName": "mgps-074.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 다른 이야기일 수도 있어. 궁금하면 물어봐도 돼.",
+      "fileName": "v24-laugh-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요?",
+      "fileName": "v24-laugh-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요?",
+      "fileName": "v24-laugh-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-game-situation",
+      "text": "친구들이 나를 빼고 이야기하며 웃어요.",
+      "fileName": "mgps-078.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-game-thought",
+      "text": "내 욕을 하는 게 분명해.",
+      "fileName": "mgps-079.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-game-helpful",
+      "text": "다른 이야기일 수도 있어. 궁금하면 물어봐도 돼.",
+      "fileName": "v24-laugh-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-game-check",
+      "text": "친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요?",
+      "fileName": "mgps-077.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-game-picture-check",
+      "text": "친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요?",
+      "fileName": "mgps-077.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-maze-start",
+      "text": "친구들이 나를 빼고 이야기하며 웃어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-laugh-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-maze-hint",
+      "text": "친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요? 다른 이야기일 수도 있어. 궁금하면 물어봐도 돼.",
+      "fileName": "v24-laugh-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-laugh-maze-picture-hint",
+      "text": "친구들이 다른 이야기를 하며 웃는 것일 수도 있을까요? 다른 이야기일 수도 있어. 궁금하면 물어봐도 돼.",
+      "fileName": "v24-laugh-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-story-situation",
+      "text": "이야기 속 친구의 짝꿍은 다른 친구와 더 친하게 지냈어요.",
+      "fileName": "mgps-080.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-story-thought",
+      "text": "이야기 속 친구는 “친구는 나랑만 놀아야 해. 이제 난 혼자야.”라고 생각했어요.",
+      "fileName": "mgps-081.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구는 여러 친구와 친하게 지낼 수 있어. 나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "v25-friend-other-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 여러 친구와 어울리며 새로운 즐거움을 찾을 수 있어요.",
+      "fileName": "v25-friend-other-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 여러 친구와 어울려 볼 수 있어요.",
+      "fileName": "v25-friend-other-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-game-situation",
+      "text": "짝꿍이 다른 친구와 더 친하게 지내요.",
+      "fileName": "mgps-086.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-game-thought",
+      "text": "친구는 나랑만 놀아야 해. 이제 난 혼자야.",
+      "fileName": "v25-friend-other-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-game-helpful",
+      "text": "친구는 여러 친구와 친하게 지낼 수 있어. 나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "v25-friend-other-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-game-check",
+      "text": "여러 친구와 어울리며 새로운 즐거움을 찾을 수 있어요.",
+      "fileName": "mgps-084.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-game-picture-check",
+      "text": "여러 친구와 어울려 볼 수 있어요.",
+      "fileName": "mgps-085.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-maze-start",
+      "text": "짝꿍이 다른 친구와 더 친하게 지내요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-friend-other-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-maze-hint",
+      "text": "여러 친구와 어울리며 새로운 즐거움을 찾을 수 있어요. 친구는 여러 친구와 친하게 지낼 수 있어. 나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "v25-friend-other-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-other-maze-picture-hint",
+      "text": "여러 친구와 어울려 볼 수 있어요. 친구는 여러 친구와 친하게 지낼 수 있어. 나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "v25-friend-other-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-story-situation",
+      "text": "이야기 속 친구는 다른 친구에게 부탁했지만 거절당했어요.",
+      "fileName": "mgps-089.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-story-thought",
+      "text": "이야기 속 친구는 “친구라면 무조건 들어줘야지. 배신이야.”라고 생각했어요.",
+      "fileName": "mgps-090.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구도 사정이 있을 수 있어. 거절해도 친구는 친구야.",
+      "fileName": "v24-friend-refusal-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구도 내 부탁을 들어주기 어려운 때가 있을까요?",
+      "fileName": "v24-friend-refusal-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구도 내 부탁을 들어주기 어려운 때가 있을까요?",
+      "fileName": "v24-friend-refusal-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-game-situation",
+      "text": "친구가 내 부탁을 거절했어요.",
+      "fileName": "mgps-094.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-game-thought",
+      "text": "친구라면 무조건 들어줘야지. 배신이야.",
+      "fileName": "v24-friend-refusal-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-game-helpful",
+      "text": "친구도 사정이 있을 수 있어. 거절해도 친구는 친구야.",
+      "fileName": "v24-friend-refusal-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-game-check",
+      "text": "친구도 내 부탁을 들어주기 어려운 때가 있을까요?",
+      "fileName": "mgps-093.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-game-picture-check",
+      "text": "친구도 내 부탁을 들어주기 어려운 때가 있을까요?",
+      "fileName": "mgps-093.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-maze-start",
+      "text": "친구가 내 부탁을 거절했어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-friend-refusal-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-maze-hint",
+      "text": "친구도 내 부탁을 들어주기 어려운 때가 있을까요? 친구도 사정이 있을 수 있어. 거절해도 친구는 친구야.",
+      "fileName": "v24-friend-refusal-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-friend-refusal-maze-picture-hint",
+      "text": "친구도 내 부탁을 들어주기 어려운 때가 있을까요? 친구도 사정이 있을 수 있어. 거절해도 친구는 친구야.",
+      "fileName": "v24-friend-refusal-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-story-situation",
+      "text": "이야기 속 친구는 다른 친구와 다퉜어요.",
+      "fileName": "mgps-097.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-story-thought",
+      "text": "이야기 속 친구는 “이제 다시는 친해질 수 없어.”라고 생각했어요.",
+      "fileName": "mgps-098.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 다퉈도 다시 이야기해 볼 수 있어. 마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "v26-friend-conflict-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 마음이 가라앉으면 다시 이야기해 볼 수 있어요. 어렵다면 도움을 부탁해도 괜찮아요.",
+      "fileName": "v26-friend-conflict-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 진정한 뒤 이야기해 봐요. 도움을 부탁해도 괜찮아요.",
+      "fileName": "v26-friend-conflict-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-game-situation",
+      "text": "친구랑 다퉜어요.",
+      "fileName": "mgps-105.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-game-thought",
+      "text": "이제 다시는 친해질 수 없어.",
+      "fileName": "mgps-106.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-game-helpful",
+      "text": "다퉈도 다시 이야기해 볼 수 있어. 마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "v26-friend-conflict-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-game-check",
+      "text": "마음이 가라앉으면 다시 이야기해 볼 수 있어요. 어렵다면 도움을 부탁해도 괜찮아요.",
+      "fileName": "v26-friend-conflict-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-game-picture-check",
+      "text": "진정한 뒤 이야기해 봐요. 도움을 부탁해도 괜찮아요.",
+      "fileName": "v26-friend-conflict-game-picture-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-maze-start",
+      "text": "친구랑 다퉜어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v26-friend-conflict-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-maze-hint",
+      "text": "마음이 가라앉으면 다시 이야기해 볼 수 있어요. 어렵다면 도움을 부탁해도 괜찮아요. 다퉈도 다시 이야기해 볼 수 있어. 마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "v26-friend-conflict-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-maze-picture-hint",
+      "text": "진정한 뒤 이야기해 봐요. 도움을 부탁해도 괜찮아요. 다퉈도 다시 이야기해 볼 수 있어. 마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "v26-friend-conflict-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-action-1",
+      "text": "마음이 가라앉으면 다시 이야기하자.",
+      "fileName": "mgps-107.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-friend-conflict-action-2",
+      "text": "선생님, 친구와 이야기할 수 있게 도와주세요.",
+      "fileName": "mgps-108.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-story-situation",
+      "text": "이야기 속 친구는 문제를 틀렸어요.",
+      "fileName": "mgps-109.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-story-thought",
+      "text": "이야기 속 친구는 “나는 바보야. 아무것도 못 해.”라고 생각했어요.",
+      "fileName": "mgps-110.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 틀릴 수 있어. 왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "v25-problem-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 틀릴 수 있어요. 왜 틀렸는지 확인하고 다시 한번 살펴봐요.",
+      "fileName": "v25-problem-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 왜 틀렸는지 함께 살펴봐요.",
+      "fileName": "v25-problem-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-game-situation",
+      "text": "문제를 틀렸어요.",
+      "fileName": "mgps-116.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-game-thought",
+      "text": "나는 바보야. 아무것도 못 해.",
+      "fileName": "v25-problem-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-game-helpful",
+      "text": "틀릴 수 있어. 왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "v25-problem-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-game-check",
+      "text": "틀릴 수 있어요. 왜 틀렸는지 확인하고 다시 한번 살펴봐요.",
+      "fileName": "v25-problem-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-game-picture-check",
+      "text": "왜 틀렸는지 함께 살펴봐요.",
+      "fileName": "mgps-115.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-maze-start",
+      "text": "문제를 틀렸어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-problem-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-maze-hint",
+      "text": "틀릴 수 있어요. 왜 틀렸는지 확인하고 다시 한번 살펴봐요. 틀릴 수 있어. 왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "v25-problem-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-problem-maze-picture-hint",
+      "text": "왜 틀렸는지 함께 살펴봐요. 틀릴 수 있어. 왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "v25-problem-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-story-situation",
+      "text": "이야기 속 친구는 활동이 어려웠어요.",
+      "fileName": "mgps-119.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-story-thought",
+      "text": "이야기 속 친구는 “어려우니까 나는 절대 못 해.”라고 생각했어요.",
+      "fileName": "mgps-120.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 어려울 때는 도움을 부탁해도 괜찮아. 설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "v26-study-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 어려운 부분은 도움을 부탁할 수 있어요. 한 번 더 듣거나 방법을 천천히 생각해 봐요.",
+      "fileName": "v26-study-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 도움을 부탁하거나 천천히 생각해 봐요.",
+      "fileName": "v26-study-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-game-situation",
+      "text": "활동이 어려워요.",
+      "fileName": "mgps-126.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-game-thought",
+      "text": "어려우니까 나는 절대 못 해.",
+      "fileName": "mgps-127.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-game-helpful",
+      "text": "어려울 때는 도움을 부탁해도 괜찮아. 설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "v26-study-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-game-check",
+      "text": "어려운 부분은 도움을 부탁할 수 있어요. 한 번 더 듣거나 방법을 천천히 생각해 봐요.",
+      "fileName": "v26-study-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-game-picture-check",
+      "text": "도움을 부탁하거나 천천히 생각해 봐요.",
+      "fileName": "mgps-125.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-maze-start",
+      "text": "활동이 어려워요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v26-study-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-maze-hint",
+      "text": "어려운 부분은 도움을 부탁할 수 있어요. 한 번 더 듣거나 방법을 천천히 생각해 봐요. 어려울 때는 도움을 부탁해도 괜찮아. 설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "v26-study-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-maze-picture-hint",
+      "text": "도움을 부탁하거나 천천히 생각해 봐요. 어려울 때는 도움을 부탁해도 괜찮아. 설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "v26-study-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-action-1",
+      "text": "한 번 더 설명해 주세요.",
+      "fileName": "mgps-128.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-study-action-2",
+      "text": "어떻게 할지 다시 생각해 볼래요.",
+      "fileName": "mgps-129.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-story-situation",
+      "text": "이야기 속 친구는 친구들 앞에서 발표해야 했어요.",
+      "fileName": "mgps-130.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-story-thought",
+      "text": "이야기 속 친구는 “실수하면 다 비웃을 거야. 끔찍해.”라고 생각했어요.",
+      "fileName": "mgps-131.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 실수해도 괜찮아. 떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "v24-presentation-anxiety-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요.",
+      "fileName": "v24-presentation-anxiety-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요.",
+      "fileName": "v24-presentation-anxiety-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-game-situation",
+      "text": "친구들 앞에서 발표해야 해요.",
+      "fileName": "mgps-135.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-game-thought",
+      "text": "실수하면 다 비웃을 거야. 끔찍해.",
+      "fileName": "v24-presentation-anxiety-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-game-helpful",
+      "text": "실수해도 괜찮아. 떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "v24-presentation-anxiety-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-game-check",
+      "text": "떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요.",
+      "fileName": "mgps-134.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-game-picture-check",
+      "text": "떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요.",
+      "fileName": "mgps-134.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-maze-start",
+      "text": "친구들 앞에서 발표해야 해요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-presentation-anxiety-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-maze-hint",
+      "text": "떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요. 실수해도 괜찮아. 떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "v24-presentation-anxiety-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-anxiety-maze-picture-hint",
+      "text": "떨릴 때 천천히 하거나 도움을 받아 발표할 수도 있어요. 실수해도 괜찮아. 떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "v24-presentation-anxiety-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-story-situation",
+      "text": "이야기 속 친구는 다른 친구들보다 늦게 활동을 끝냈어요.",
+      "fileName": "mgps-138.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-story-thought",
+      "text": "이야기 속 친구는 “나는 항상 제일 느려. 난 안 돼.”라고 생각했어요.",
+      "fileName": "mgps-139.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 끝까지 해냈어. 내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "v25-slow-finish-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 끝까지 잘 해냈어요. 앞으로도 차근차근 해 나가 봐요.",
+      "fileName": "v25-slow-finish-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 끝까지 해냈어요. 차근차근 해 봐요.",
+      "fileName": "v25-slow-finish-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-game-situation",
+      "text": "친구들보다 늦게 활동을 끝냈어요.",
+      "fileName": "mgps-146.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-game-thought",
+      "text": "나는 항상 제일 느려. 난 안 돼.",
+      "fileName": "v25-slow-finish-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-game-helpful",
+      "text": "끝까지 해냈어. 내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "v25-slow-finish-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-game-check",
+      "text": "끝까지 잘 해냈어요. 앞으로도 차근차근 해 나가 봐요.",
+      "fileName": "v25-slow-finish-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-game-picture-check",
+      "text": "끝까지 해냈어요. 차근차근 해 봐요.",
+      "fileName": "v25-slow-finish-game-picture-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-maze-start",
+      "text": "친구들보다 늦게 활동을 끝냈어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-slow-finish-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-maze-hint",
+      "text": "끝까지 잘 해냈어요. 앞으로도 차근차근 해 나가 봐요. 끝까지 해냈어. 내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "v25-slow-finish-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-slow-finish-maze-picture-hint",
+      "text": "끝까지 해냈어요. 차근차근 해 봐요. 끝까지 해냈어. 내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "v25-slow-finish-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-story-situation",
+      "text": "이야기 속 친구가 발표할 때 다른 친구들이 그 친구를 바라보았어요.",
+      "fileName": "mgps-149.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-story-thought",
+      "text": "이야기 속 친구는 “나를 나쁘게 봐서 쳐다보는 거야.”라고 생각했어요.",
+      "fileName": "mgps-150.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "v24-presentation-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구들은 발표 내용이 궁금해서 바라볼 수도 있어요.",
+      "fileName": "v24-presentation-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 발표를 들으려고 바라볼 수도 있어요.",
+      "fileName": "v24-presentation-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-game-situation",
+      "text": "내가 발표할 때 친구들이 나를 바라봐요.",
+      "fileName": "mgps-154.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-game-thought",
+      "text": "나를 나쁘게 봐서 쳐다보는 거야.",
+      "fileName": "mgps-155.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-game-helpful",
+      "text": "친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "mgps-151.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-game-check",
+      "text": "친구들은 발표 내용이 궁금해서 바라볼 수도 있어요.",
+      "fileName": "mgps-152.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-game-picture-check",
+      "text": "발표를 들으려고 바라볼 수도 있어요.",
+      "fileName": "mgps-153.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-maze-start",
+      "text": "내가 발표할 때 친구들이 나를 바라봐요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-presentation-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-maze-hint",
+      "text": "친구들은 발표 내용이 궁금해서 바라볼 수도 있어요. 친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "v24-presentation-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-presentation-maze-picture-hint",
+      "text": "발표를 들으려고 바라볼 수도 있어요. 친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "v24-presentation-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-story-situation",
+      "text": "이야기 속 친구는 지나가다가 실수로 다른 친구와 부딪혔어요.",
+      "fileName": "mgps-156.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-story-thought",
+      "text": "이야기 속 친구는 “실수했으니까 나는 나쁜 친구야.”라고 생각했어요.",
+      "fileName": "mgps-157.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 실수했다고 나쁜 친구가 되는 건 아니야. 친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "v25-friend-mistake-story-helpful-r2-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 한 번의 실수로 나쁜 친구가 되는 건 아니에요. 친구가 괜찮은지 살피고 미안한 마음을 전해 봐요.",
+      "fileName": "v25-friend-mistake-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 실수해도 나쁜 친구는 아니에요. 친구를 살펴봐요.",
+      "fileName": "v25-friend-mistake-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-game-situation",
+      "text": "지나가다가 실수로 친구와 부딪혔어요.",
+      "fileName": "mgps-164.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-game-thought",
+      "text": "실수했으니까 나는 나쁜 친구야.",
+      "fileName": "mgps-165.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-game-helpful",
+      "text": "실수했다고 나쁜 친구가 되는 건 아니야. 친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "v25-friend-mistake-game-helpful-r2-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-game-check",
+      "text": "한 번의 실수로 나쁜 친구가 되는 건 아니에요. 친구가 괜찮은지 살피고 미안한 마음을 전해 봐요.",
+      "fileName": "v25-friend-mistake-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-game-picture-check",
+      "text": "실수해도 나쁜 친구는 아니에요. 친구를 살펴봐요.",
+      "fileName": "v25-friend-mistake-game-picture-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-maze-start",
+      "text": "지나가다가 실수로 친구와 부딪혔어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-friend-mistake-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-maze-hint",
+      "text": "한 번의 실수로 나쁜 친구가 되는 건 아니에요. 친구가 괜찮은지 살피고 미안한 마음을 전해 봐요. 실수했다고 나쁜 친구가 되는 건 아니야. 친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "v25-friend-mistake-maze-hint-r2-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-maze-picture-hint",
+      "text": "실수해도 나쁜 친구는 아니에요. 친구를 살펴봐요. 실수했다고 나쁜 친구가 되는 건 아니야. 친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "v25-friend-mistake-maze-picture-hint-r2-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-action-1",
+      "text": "괜찮아? 부딪혀서 미안해.",
+      "fileName": "v25-friend-mistake-action-1.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-friend-mistake-action-2",
+      "text": "선생님, 친구와 부딪혔어요. 도와주세요.",
+      "fileName": "v25-friend-mistake-action-2.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-story-situation",
+      "text": "이야기 속 친구는 선생님께 화가 나서 큰 소리로 말했어요.",
+      "fileName": "mgps-170.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-story-thought",
+      "text": "이야기 속 친구는 “나는 나쁜 학생이야. 선생님은 이제 나를 싫어하실 거야.”라고 생각했어요.",
+      "fileName": "mgps-171.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 화가 나도 다른 방법으로 말할 수 있어. 큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "v25-teacher-mistake-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 한 번의 행동으로 나쁜 학생이 되는 건 아니에요. 마음이 가라앉으면 다시 이야기해 봐요.",
+      "fileName": "v25-teacher-mistake-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 나쁜 학생이 되는 건 아니에요. 진정한 뒤 이야기해 봐요.",
+      "fileName": "v25-teacher-mistake-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-game-situation",
+      "text": "선생님께 화가 나서 큰 소리로 말했어요.",
+      "fileName": "mgps-177.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-game-thought",
+      "text": "나는 나쁜 학생이야. 선생님은 이제 나를 싫어하실 거야.",
+      "fileName": "v25-teacher-mistake-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-game-helpful",
+      "text": "화가 나도 다른 방법으로 말할 수 있어. 큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "v25-teacher-mistake-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-game-check",
+      "text": "한 번의 행동으로 나쁜 학생이 되는 건 아니에요. 마음이 가라앉으면 다시 이야기해 봐요.",
+      "fileName": "v25-teacher-mistake-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-game-picture-check",
+      "text": "나쁜 학생이 되는 건 아니에요. 진정한 뒤 이야기해 봐요.",
+      "fileName": "v25-teacher-mistake-game-picture-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-maze-start",
+      "text": "선생님께 화가 나서 큰 소리로 말했어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-teacher-mistake-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-maze-hint",
+      "text": "한 번의 행동으로 나쁜 학생이 되는 건 아니에요. 마음이 가라앉으면 다시 이야기해 봐요. 화가 나도 다른 방법으로 말할 수 있어. 큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "v25-teacher-mistake-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-maze-picture-hint",
+      "text": "나쁜 학생이 되는 건 아니에요. 진정한 뒤 이야기해 봐요. 화가 나도 다른 방법으로 말할 수 있어. 큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "v25-teacher-mistake-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-action-1",
+      "text": "선생님, 큰 소리로 말해서 죄송해요.",
+      "fileName": "mgps-180.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-teacher-mistake-action-2",
+      "text": "선생님, 제 마음도 말씀드리고 싶어요.",
+      "fileName": "mgps-181.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-story-situation",
+      "text": "이야기 속 친구는 실습을 하다가 실수했어요.",
+      "fileName": "mgps-182.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-story-thought",
+      "text": "이야기 속 친구는 “나는 이 일을 절대 못 해.”라고 생각했어요.",
+      "fileName": "mgps-183.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 실수는 연습하는 과정이야. 다음엔 더 잘할 수 있어.",
+      "fileName": "v24-practice-mistake-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요?",
+      "fileName": "v24-practice-mistake-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요?",
+      "fileName": "v24-practice-mistake-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-game-situation",
+      "text": "실습을 하다가 실수했어요.",
+      "fileName": "mgps-187.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-game-thought",
+      "text": "나는 이 일을 절대 못 해.",
+      "fileName": "mgps-188.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-game-helpful",
+      "text": "실수는 연습하는 과정이야. 다음엔 더 잘할 수 있어.",
+      "fileName": "v24-practice-mistake-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-game-check",
+      "text": "한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요?",
+      "fileName": "mgps-186.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-game-picture-check",
+      "text": "한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요?",
+      "fileName": "mgps-186.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-maze-start",
+      "text": "실습을 하다가 실수했어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-practice-mistake-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-maze-hint",
+      "text": "한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요? 실수는 연습하는 과정이야. 다음엔 더 잘할 수 있어.",
+      "fileName": "v24-practice-mistake-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-practice-mistake-maze-picture-hint",
+      "text": "한 번 실수했다고 앞으로도 이 일을 전혀 못하는 걸까요? 실수는 연습하는 과정이야. 다음엔 더 잘할 수 있어.",
+      "fileName": "v24-practice-mistake-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-story-situation",
+      "text": "이야기 속 친구는 시합이나 게임에서 졌어요.",
+      "fileName": "mgps-189.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-story-thought",
+      "text": "이야기 속 친구는 “나는 무조건 이겨야 해. 지는 건 못 참아.”라고 생각했어요.",
+      "fileName": "mgps-190.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 이기고 싶었지만 질 수도 있어. 즐겁게 한 것도 의미 있어.",
+      "fileName": "v24-game-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 이기고 싶은 마음이 있어도 시합이나 게임에서 질 때가 있어요.",
+      "fileName": "v24-game-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 게임은 이길 때도, 질 때도 있어요.",
+      "fileName": "v24-game-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-game-situation",
+      "text": "시합이나 게임에서 졌어요.",
+      "fileName": "mgps-195.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-game-thought",
+      "text": "나는 무조건 이겨야 해. 지는 건 못 참아.",
+      "fileName": "v24-game-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-game-helpful",
+      "text": "이기고 싶었지만 질 수도 있어. 즐겁게 한 것도 의미 있어.",
+      "fileName": "v24-game-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-game-check",
+      "text": "이기고 싶은 마음이 있어도 시합이나 게임에서 질 때가 있어요.",
+      "fileName": "mgps-193.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-game-picture-check",
+      "text": "게임은 이길 때도, 질 때도 있어요.",
+      "fileName": "mgps-194.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-maze-start",
+      "text": "시합이나 게임에서 졌어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-game-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-maze-hint",
+      "text": "이기고 싶은 마음이 있어도 시합이나 게임에서 질 때가 있어요. 이기고 싶었지만 질 수도 있어. 즐겁게 한 것도 의미 있어.",
+      "fileName": "v24-game-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-game-maze-picture-hint",
+      "text": "게임은 이길 때도, 질 때도 있어요. 이기고 싶었지만 질 수도 있어. 즐겁게 한 것도 의미 있어.",
+      "fileName": "v24-game-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-story-situation",
+      "text": "이야기 속 친구는 선생님께 지적을 받았어요.",
+      "fileName": "mgps-198.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-story-thought",
+      "text": "이야기 속 친구는 “선생님은 나만 미워해.”라고 생각했어요.",
+      "fileName": "mgps-199.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 고칠 부분을 알려 주신 걸 수도 있어. 어떤 뜻인지 물어봐도 돼.",
+      "fileName": "v24-feedback-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요?",
+      "fileName": "v24-feedback-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요?",
+      "fileName": "v24-feedback-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-game-situation",
+      "text": "선생님께 지적을 받았어요.",
+      "fileName": "mgps-203.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-game-thought",
+      "text": "선생님은 나만 미워해.",
+      "fileName": "mgps-204.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-game-helpful",
+      "text": "고칠 부분을 알려 주신 걸 수도 있어. 어떤 뜻인지 물어봐도 돼.",
+      "fileName": "v24-feedback-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-game-check",
+      "text": "선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요?",
+      "fileName": "mgps-202.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-game-picture-check",
+      "text": "선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요?",
+      "fileName": "mgps-202.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-maze-start",
+      "text": "선생님께 지적을 받았어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-feedback-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-maze-hint",
+      "text": "선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요? 고칠 부분을 알려 주신 걸 수도 있어. 어떤 뜻인지 물어봐도 돼.",
+      "fileName": "v24-feedback-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-feedback-maze-picture-hint",
+      "text": "선생님 말씀에 어떤 뜻이 있는지 확인해 볼까요? 고칠 부분을 알려 주신 걸 수도 있어. 어떤 뜻인지 물어봐도 돼.",
+      "fileName": "v24-feedback-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-story-situation",
+      "text": "이야기 속 친구는 하고 싶은 활동을 지금 할 수 없었어요.",
+      "fileName": "mgps-205.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-story-thought",
+      "text": "이야기 속 친구는 “원하는 건 지금 꼭 해야 해.”라고 생각했어요.",
+      "fileName": "mgps-206.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "v26-denied-activity-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 지금 하기 어려운 이유가 있을 수 있어요. 가능한 때나 방법도 물어볼 수 있어요.",
+      "fileName": "v26-denied-activity-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 이유를 듣고 가능한 방법을 물어봐요.",
+      "fileName": "v26-denied-activity-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-game-situation",
+      "text": "하고 싶은 활동을 지금 할 수 없어요.",
+      "fileName": "mgps-211.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-game-thought",
+      "text": "원하는 건 지금 꼭 해야 해.",
+      "fileName": "mgps-212.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-game-helpful",
+      "text": "지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "mgps-207.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-game-check",
+      "text": "지금 하기 어려운 이유가 있을 수 있어요. 가능한 때나 방법도 물어볼 수 있어요.",
+      "fileName": "v26-denied-activity-game-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-game-picture-check",
+      "text": "이유를 듣고 가능한 방법을 물어봐요.",
+      "fileName": "mgps-210.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-maze-start",
+      "text": "하고 싶은 활동을 지금 할 수 없어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v26-denied-activity-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-maze-hint",
+      "text": "지금 하기 어려운 이유가 있을 수 있어요. 가능한 때나 방법도 물어볼 수 있어요. 지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "v26-denied-activity-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v26-denied-activity-maze-picture-hint",
+      "text": "이유를 듣고 가능한 방법을 물어봐요. 지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "v26-denied-activity-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-story-situation",
+      "text": "이야기 속 친구만 혼나고 다른 친구는 혼나지 않았어요.",
+      "fileName": "mgps-213.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-story-thought",
+      "text": "이야기 속 친구는 “세상은 불공평해. 나만 손해 봐.”라고 생각했어요.",
+      "fileName": "mgps-214.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 억울한 마음이 들 수 있어. 차분하게 내 생각을 말해 보자.",
+      "fileName": "v24-unfair-scolding-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요.",
+      "fileName": "v24-unfair-scolding-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요.",
+      "fileName": "v24-unfair-scolding-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-game-situation",
+      "text": "친구는 혼나지 않고 나만 혼났어요.",
+      "fileName": "mgps-218.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-game-thought",
+      "text": "세상은 불공평해. 나만 손해 봐.",
+      "fileName": "v24-unfair-scolding-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-game-helpful",
+      "text": "억울한 마음이 들 수 있어. 차분하게 내 생각을 말해 보자.",
+      "fileName": "v24-unfair-scolding-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-game-check",
+      "text": "억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요.",
+      "fileName": "mgps-217.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-game-picture-check",
+      "text": "억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요.",
+      "fileName": "mgps-217.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-maze-start",
+      "text": "친구는 혼나지 않고 나만 혼났어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-unfair-scolding-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-maze-hint",
+      "text": "억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요. 억울한 마음이 들 수 있어. 차분하게 내 생각을 말해 보자.",
+      "fileName": "v24-unfair-scolding-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-unfair-scolding-maze-picture-hint",
+      "text": "억울한 마음과 내가 본 일을 말이나 그림으로 전해도 괜찮아요. 억울한 마음이 들 수 있어. 차분하게 내 생각을 말해 보자.",
+      "fileName": "v24-unfair-scolding-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-story-situation",
+      "text": "이야기 속 친구는 다른 친구가 칭찬받는 모습을 보았어요.",
+      "fileName": "mgps-221.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-story-thought",
+      "text": "이야기 속 친구는 “나는 칭찬받을 게 하나도 없어.”라고 생각했어요.",
+      "fileName": "mgps-222.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구의 멋진 모습을 함께 기뻐해 주자. 나에게도 잘하는 게 있어.",
+      "fileName": "v25-peer-praise-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구가 잘한 일을 함께 기뻐하고, 내가 잘하는 것도 떠올려 봐요.",
+      "fileName": "v25-peer-praise-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구와 함께 기뻐해요. 나도 잘하는 게 있어요.",
+      "fileName": "v25-peer-praise-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-game-situation",
+      "text": "친구가 칭찬을 받았어요.",
+      "fileName": "mgps-228.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-game-thought",
+      "text": "나는 칭찬받을 게 하나도 없어.",
+      "fileName": "mgps-229.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-game-helpful",
+      "text": "친구의 멋진 모습을 함께 기뻐해 주자. 나에게도 잘하는 게 있어.",
+      "fileName": "v25-peer-praise-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-game-check",
+      "text": "친구가 잘한 일을 함께 기뻐하고, 내가 잘하는 것도 떠올려 봐요.",
+      "fileName": "mgps-225.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-game-picture-check",
+      "text": "친구와 함께 기뻐해요. 나도 잘하는 게 있어요.",
+      "fileName": "v25-peer-praise-game-picture-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-maze-start",
+      "text": "친구가 칭찬을 받았어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-peer-praise-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-maze-hint",
+      "text": "친구가 잘한 일을 함께 기뻐하고, 내가 잘하는 것도 떠올려 봐요. 친구의 멋진 모습을 함께 기뻐해 주자. 나에게도 잘하는 게 있어.",
+      "fileName": "v25-peer-praise-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-praise-maze-picture-hint",
+      "text": "친구와 함께 기뻐해요. 나도 잘하는 게 있어요. 친구의 멋진 모습을 함께 기뻐해 주자. 나에게도 잘하는 게 있어.",
+      "fileName": "v25-peer-praise-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-story-situation",
+      "text": "이야기 속 친구는 다른 친구가 자신보다 더 잘하는 모습을 보았어요.",
+      "fileName": "mgps-230.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-story-thought",
+      "text": "이야기 속 친구는 “나는 누구보다 잘해야 해.”라고 생각했어요.",
+      "fileName": "mgps-231.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구에게 배울 수도 있어. 나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "v25-peer-comparison-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구의 방법을 참고하며 나에게 맞는 속도로 연습해도 괜찮아요.",
+      "fileName": "v25-peer-comparison-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 친구의 방법을 보고, 내 속도로 연습해 봐요.",
+      "fileName": "v25-peer-comparison-story-pictureCheck.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-game-situation",
+      "text": "친구가 나보다 더 잘해요.",
+      "fileName": "mgps-236.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-game-thought",
+      "text": "나는 누구보다 잘해야 해.",
+      "fileName": "mgps-237.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-game-helpful",
+      "text": "친구에게 배울 수도 있어. 나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "v25-peer-comparison-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-game-check",
+      "text": "친구의 방법을 참고하며 나에게 맞는 속도로 연습해도 괜찮아요.",
+      "fileName": "mgps-234.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-game-picture-check",
+      "text": "친구의 방법을 보고, 내 속도로 연습해 봐요.",
+      "fileName": "mgps-235.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-maze-start",
+      "text": "친구가 나보다 더 잘해요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v25-peer-comparison-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-maze-hint",
+      "text": "친구의 방법을 참고하며 나에게 맞는 속도로 연습해도 괜찮아요. 친구에게 배울 수도 있어. 나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "v25-peer-comparison-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v25-peer-comparison-maze-picture-hint",
+      "text": "친구의 방법을 보고, 내 속도로 연습해 봐요. 친구에게 배울 수도 있어. 나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "v25-peer-comparison-maze-picture-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-story-situation",
+      "text": "이야기 속 친구는 상을 받지 못했어요.",
+      "fileName": "mgps-238.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-story-thought",
+      "text": "이야기 속 친구는 “노력해도 소용없어.”라고 생각했어요.",
+      "fileName": "mgps-239.mp3",
+      "verified": false
+    },
+    {
+      "id": "v24-no-award-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "v24-no-award-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요?",
+      "fileName": "v24-no-award-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요?",
+      "fileName": "v24-no-award-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-game-situation",
+      "text": "상을 받지 못했어요.",
+      "fileName": "mgps-242.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-game-thought",
+      "text": "노력해도 소용없어.",
+      "fileName": "mgps-243.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-game-helpful",
+      "text": "이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "mgps-240.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-game-check",
+      "text": "상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요?",
+      "fileName": "mgps-241.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-game-picture-check",
+      "text": "상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요?",
+      "fileName": "mgps-241.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-maze-start",
+      "text": "상을 받지 못했어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-no-award-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-maze-hint",
+      "text": "상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요? 이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "v24-no-award-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-no-award-maze-picture-hint",
+      "text": "상을 받지 못했다고 연습해 본 과정까지 없어지는 걸까요? 이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "v24-no-award-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-story-situation",
+      "text": "다른 친구가 이야기 속 친구의 외모를 놀렸어요.",
+      "fileName": "mgps-244.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-story-thought",
+      "text": "이야기 속 친구는 “그 말이 맞아. 나는 못생겼어.”라고 생각했어요.",
+      "fileName": "mgps-245.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 친구가 놀려도 나는 소중한 사람이야. 도움을 받아도 돼.",
+      "fileName": "v24-appearance-teasing-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 외모를 놀리는 말 때문에 혼자 참을 필요는 없어요.",
+      "fileName": "v24-appearance-teasing-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 외모를 놀리는 말 때문에 혼자 참을 필요는 없어요.",
+      "fileName": "v24-appearance-teasing-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-game-situation",
+      "text": "친구가 내 외모를 놀려요.",
+      "fileName": "mgps-249.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-game-thought",
+      "text": "그 말이 맞아. 나는 못생겼어.",
+      "fileName": "v24-appearance-teasing-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-game-helpful",
+      "text": "친구가 놀려도 나는 소중한 사람이야. 도움을 받아도 돼.",
+      "fileName": "v24-appearance-teasing-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-game-check",
+      "text": "외모를 놀리는 말 때문에 혼자 참을 필요는 없어요.",
+      "fileName": "mgps-248.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-game-picture-check",
+      "text": "외모를 놀리는 말 때문에 혼자 참을 필요는 없어요.",
+      "fileName": "mgps-248.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-maze-start",
+      "text": "친구가 내 외모를 놀려요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-appearance-teasing-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-maze-hint",
+      "text": "외모를 놀리는 말 때문에 혼자 참을 필요는 없어요. 친구가 놀려도 나는 소중한 사람이야. 도움을 받아도 돼.",
+      "fileName": "v24-appearance-teasing-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-maze-picture-hint",
+      "text": "외모를 놀리는 말 때문에 혼자 참을 필요는 없어요. 친구가 놀려도 나는 소중한 사람이야. 도움을 받아도 돼.",
+      "fileName": "v24-appearance-teasing-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-action-1",
+      "text": "그런 말은 싫어. 그만해 줘.",
+      "fileName": "v24-appearance-teasing-action-1.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-appearance-teasing-action-2",
+      "text": "선생님, 친구가 외모를 놀려요. 도와주세요.",
+      "fileName": "v24-appearance-teasing-action-2.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-story-situation",
+      "text": "이야기 속 친구에게는 싫어하는 별명이 있었어요. 다른 친구가 그 별명을 불렀어요.",
+      "fileName": "v24-nickname-teasing-story-situation.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-story-thought",
+      "text": "이야기 속 친구는 “나를 놀리면 똑같이 갚아 줘야 해.”라고 생각했어요.",
+      "fileName": "mgps-257.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 화가 날 수 있어. 싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "v24-nickname-teasing-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요.",
+      "fileName": "v24-nickname-teasing-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요.",
+      "fileName": "v24-nickname-teasing-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-game-situation",
+      "text": "친구가 내가 싫어하는 별명을 불러요.",
+      "fileName": "mgps-261.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-game-thought",
+      "text": "나를 놀리면 똑같이 갚아 줘야 해.",
+      "fileName": "mgps-262.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-game-helpful",
+      "text": "화가 날 수 있어. 싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "v24-nickname-teasing-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-game-check",
+      "text": "싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요.",
+      "fileName": "mgps-260.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-game-picture-check",
+      "text": "싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요.",
+      "fileName": "mgps-260.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-maze-start",
+      "text": "친구가 내가 싫어하는 별명을 불러요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-nickname-teasing-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-maze-hint",
+      "text": "싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요. 화가 날 수 있어. 싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "v24-nickname-teasing-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-maze-picture-hint",
+      "text": "싫다고 표현하거나 바로 선생님께 도움을 요청해도 괜찮아요. 화가 날 수 있어. 싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "v24-nickname-teasing-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-action-1",
+      "text": "그 별명은 싫어. 내 이름으로 불러 줘.",
+      "fileName": "v24-nickname-teasing-action-1.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-nickname-teasing-action-2",
+      "text": "선생님, 친구가 싫은 별명을 불러요. 도와주세요.",
+      "fileName": "v24-nickname-teasing-action-2.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-story-situation",
+      "text": "이야기 속 친구의 시간표가 갑자기 바뀌었어요.",
+      "fileName": "mgps-266.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-story-thought",
+      "text": "이야기 속 친구는 “원래대로 해야 해. 다 망했어.”라고 생각했어요.",
+      "fileName": "mgps-267.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "v24-change-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요.",
+      "fileName": "v24-change-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요.",
+      "fileName": "v24-change-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-game-situation",
+      "text": "시간표가 갑자기 바뀌었어요.",
+      "fileName": "mgps-270.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-game-thought",
+      "text": "원래대로 해야 해. 다 망했어.",
+      "fileName": "v24-change-game-thought.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-game-helpful",
+      "text": "바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "mgps-268.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-game-check",
+      "text": "바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요.",
+      "fileName": "mgps-269.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-game-picture-check",
+      "text": "바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요.",
+      "fileName": "mgps-269.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-maze-start",
+      "text": "시간표가 갑자기 바뀌었어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-change-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-maze-hint",
+      "text": "바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요. 바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "v24-change-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-change-maze-picture-hint",
+      "text": "바뀐 시간표를 살펴보고 다음 활동을 확인할 수 있어요. 바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "v24-change-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-story-situation",
+      "text": "이야기 속 친구가 좋아하는 활동이 취소됐어요.",
+      "fileName": "mgps-273.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-story-thought",
+      "text": "이야기 속 친구는 “오늘 하루는 완전히 망했어.”라고 생각했어요.",
+      "fileName": "mgps-274.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 아쉽지만 다른 활동을 찾아볼 수 있어. 다음에 할 수 있을지 물어보자.",
+      "fileName": "v24-cancelled-activity-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요.",
+      "fileName": "v24-cancelled-activity-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요.",
+      "fileName": "v24-cancelled-activity-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-game-situation",
+      "text": "좋아하는 활동이 취소됐어요.",
+      "fileName": "mgps-278.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-game-thought",
+      "text": "오늘 하루는 완전히 망했어.",
+      "fileName": "mgps-279.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-game-helpful",
+      "text": "아쉽지만 다른 활동을 찾아볼 수 있어. 다음에 할 수 있을지 물어보자.",
+      "fileName": "v24-cancelled-activity-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-game-check",
+      "text": "취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요.",
+      "fileName": "mgps-277.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-game-picture-check",
+      "text": "취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요.",
+      "fileName": "mgps-277.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-maze-start",
+      "text": "좋아하는 활동이 취소됐어요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-cancelled-activity-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-maze-hint",
+      "text": "취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요. 아쉽지만 다른 활동을 찾아볼 수 있어. 다음에 할 수 있을지 물어보자.",
+      "fileName": "v24-cancelled-activity-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-cancelled-activity-maze-picture-hint",
+      "text": "취소돼서 아쉬운 마음을 표현하고 다른 활동을 찾아볼 수 있어요. 아쉽지만 다른 활동을 찾아볼 수 있어. 다음에 할 수 있을지 물어보자.",
+      "fileName": "v24-cancelled-activity-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-story-situation",
+      "text": "이야기 속 친구는 처음 가는 장소에 가게 됐어요.",
+      "fileName": "mgps-280.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-story-thought",
+      "text": "이야기 속 친구는 “분명히 나쁜 일이 생길 거야.”라고 생각했어요.",
+      "fileName": "mgps-281.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-story-helpful",
+      "text": "친구와 함께 살펴볼 생각이에요. 처음이라 걱정되는 거야. 모르면 물어보면 돼.",
+      "fileName": "v24-new-place-story-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-story-check",
+      "text": "이야기 속 친구와 함께 살펴봐요. 모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요.",
+      "fileName": "v24-new-place-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-story-pictureCheck",
+      "text": "이야기 속 친구와 함께 살펴봐요. 모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요.",
+      "fileName": "v24-new-place-story-check.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-game-situation",
+      "text": "처음 가는 장소에 가요.",
+      "fileName": "mgps-285.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-game-thought",
+      "text": "분명히 나쁜 일이 생길 거야.",
+      "fileName": "mgps-286.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-game-helpful",
+      "text": "처음이라 걱정되는 거야. 모르면 물어보면 돼.",
+      "fileName": "v24-new-place-game-helpful.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-game-check",
+      "text": "모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요.",
+      "fileName": "mgps-284.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-game-picture-check",
+      "text": "모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요.",
+      "fileName": "mgps-284.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-maze-start",
+      "text": "처음 가는 장소에 가요. 두 생각을 듣고, 화살표로 길을 찾아가요.",
+      "fileName": "v24-new-place-maze-start.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-maze-hint",
+      "text": "모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요. 처음이라 걱정되는 거야. 모르면 물어보면 돼.",
+      "fileName": "v24-new-place-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "v24-new-place-maze-picture-hint",
+      "text": "모르는 것이 있으면 물어보거나 함께 살펴볼 수 있어요. 처음이라 걱정되는 거야. 모르면 물어보면 돼.",
+      "fileName": "v24-new-place-maze-hint.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-greeting",
+      "text": "인사했는데 친구가 대답하지 않았어요. 못 들었을 수도 있어. 다음에 다시 인사해 보자.",
+      "fileName": "card-v24-greeting.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-laugh",
+      "text": "친구들이 나를 빼고 이야기하며 웃어요. 다른 이야기일 수도 있어. 궁금하면 물어봐도 돼.",
+      "fileName": "card-v24-laugh.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-friend-other",
+      "text": "짝꿍이 다른 친구와 더 친하게 지내요. 친구는 여러 친구와 친하게 지낼 수 있어. 나도 함께 어울리거나 다른 친구에게 다가가 보자.",
+      "fileName": "card-v25-friend-other.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-friend-refusal",
+      "text": "친구가 내 부탁을 거절했어요. 친구도 사정이 있을 수 있어. 거절해도 친구는 친구야.",
+      "fileName": "card-v24-friend-refusal.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v26-friend-conflict",
+      "text": "친구랑 다퉜어요. 다퉈도 다시 이야기해 볼 수 있어. 마음이 가라앉으면 내 마음을 전해 보자.",
+      "fileName": "card-v26-friend-conflict.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-problem",
+      "text": "문제를 틀렸어요. 틀릴 수 있어. 왜 틀렸는지 살펴보고 다시 해 보자.",
+      "fileName": "card-v25-problem.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v26-study",
+      "text": "활동이 어려워요. 어려울 때는 도움을 부탁해도 괜찮아. 설명을 다시 듣거나 방법을 천천히 생각해 보자.",
+      "fileName": "card-v26-study.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-presentation-anxiety",
+      "text": "친구들 앞에서 발표해야 해요. 실수해도 괜찮아. 떨릴 때는 천천히 하거나 도움을 받아도 돼.",
+      "fileName": "card-v24-presentation-anxiety.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-slow-finish",
+      "text": "친구들보다 늦게 활동을 끝냈어요. 끝까지 해냈어. 내 속도로 차근차근 해 나가면 돼.",
+      "fileName": "card-v25-slow-finish.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-presentation",
+      "text": "내가 발표할 때 친구들이 나를 바라봐요. 친구들이 내 발표가 궁금해서 집중하고 있나 봐.",
+      "fileName": "card-v24-presentation.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-friend-mistake",
+      "text": "지나가다가 실수로 친구와 부딪혔어요. 실수했다고 나쁜 친구가 되는 건 아니야. 친구가 괜찮은지 살피고 미안하다고 전하자.",
+      "fileName": "card-v25-friend-mistake-r2-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-teacher-mistake",
+      "text": "선생님께 화가 나서 큰 소리로 말했어요. 화가 나도 다른 방법으로 말할 수 있어. 큰 소리로 말한 건 사과하고 내 마음도 전해 보자.",
+      "fileName": "card-v25-teacher-mistake.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-practice-mistake",
+      "text": "실습을 하다가 실수했어요. 실수는 연습하는 과정이야. 다음엔 더 잘할 수 있어.",
+      "fileName": "card-v24-practice-mistake.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-game",
+      "text": "시합이나 게임에서 졌어요. 이기고 싶었지만 질 수도 있어. 즐겁게 한 것도 의미 있어.",
+      "fileName": "card-v24-game.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-feedback",
+      "text": "선생님께 지적을 받았어요. 고칠 부분을 알려 주신 걸 수도 있어. 어떤 뜻인지 물어봐도 돼.",
+      "fileName": "card-v24-feedback.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v26-denied-activity",
+      "text": "하고 싶은 활동을 지금 할 수 없어요. 지금 하기 어려운 이유를 듣고, 가능한 때나 방법을 물어보자.",
+      "fileName": "card-v26-denied-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-unfair-scolding",
+      "text": "친구는 혼나지 않고 나만 혼났어요. 억울한 마음이 들 수 있어. 차분하게 내 생각을 말해 보자.",
+      "fileName": "card-v24-unfair-scolding.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-peer-praise",
+      "text": "친구가 칭찬을 받았어요. 친구의 멋진 모습을 함께 기뻐해 주자. 나에게도 잘하는 게 있어.",
+      "fileName": "card-v25-peer-praise.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v25-peer-comparison",
+      "text": "친구가 나보다 더 잘해요. 친구에게 배울 수도 있어. 나도 내 속도로 차근차근 연습해 보자.",
+      "fileName": "card-v25-peer-comparison.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-no-award",
+      "text": "상을 받지 못했어요. 이번엔 못 받았지만 노력한 건 내 실력으로 남아.",
+      "fileName": "card-v24-no-award.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-appearance-teasing",
+      "text": "친구가 내 외모를 놀려요. 친구가 놀려도 나는 소중한 사람이야. 도움을 받아도 돼.",
+      "fileName": "card-v24-appearance-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-nickname-teasing",
+      "text": "친구가 내가 싫어하는 별명을 불러요. 화가 날 수 있어. 싫다고 말하거나 선생님께 도움을 요청해도 돼.",
+      "fileName": "card-v24-nickname-teasing.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-change",
+      "text": "시간표가 갑자기 바뀌었어요. 바뀌어서 당황스럽지만 바뀐 대로 해 볼 수 있어.",
+      "fileName": "card-v24-change.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-cancelled-activity",
+      "text": "좋아하는 활동이 취소됐어요. 아쉽지만 다른 활동을 찾아볼 수 있어. 다음에 할 수 있을지 물어보자.",
+      "fileName": "card-v24-cancelled-activity.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-v24-new-place",
+      "text": "처음 가는 장소에 가요. 처음이라 걱정되는 거야. 모르면 물어보면 돼.",
+      "fileName": "card-v24-new-place.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-0",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 편한 자세로 시범을 살펴봐요.",
+      "fileName": "mgps-287.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-1",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요.",
+      "fileName": "mgps-288.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-2",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 어깨를 편하게 내리고, 손의 힘을 풀어요.",
+      "fileName": "mgps-289.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-3",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 어깨를 편하게 내리고, 손의 힘을 풀어요.",
+      "fileName": "card-relax-3.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-4",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "mgps-290.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-5",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "card-relax-5.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-6",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 어깨를 편하게 내리고, 손의 힘을 풀어요. 내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "card-relax-6.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-7",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 어깨를 편하게 내리고, 손의 힘을 풀어요. 내 속도에 맞게 편안하게 숨을 들이쉬어요.",
+      "fileName": "card-relax-7.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-8",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 숨을 편안하게 내쉬어요.",
+      "fileName": "mgps-291.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-9",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-9.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-10",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 어깨를 편하게 내리고, 손의 힘을 풀어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-10.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-11",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 어깨를 편하게 내리고, 손의 힘을 풀어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-11.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-12",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 내 속도에 맞게 편안하게 숨을 들이쉬어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-12.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-13",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 내 속도에 맞게 편안하게 숨을 들이쉬어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-13.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-14",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 어깨를 편하게 내리고, 손의 힘을 풀어요. 내 속도에 맞게 편안하게 숨을 들이쉬어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-14.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-relax-15",
+      "text": "몸과 마음을 편안하게 하고 싶을 때 발을 바닥에 두고, 나에게 편한 자세로 앉아요. 어깨를 편하게 내리고, 손의 힘을 풀어요. 내 속도에 맞게 편안하게 숨을 들이쉬어요. 숨을 편안하게 내쉬어요.",
+      "fileName": "card-relax-15.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-sound-rain",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 빗소리를 편안한 크기로 들으며 잠깐 쉬어요. 소리가 불편하면 멈추고 쉬어요.",
+      "fileName": "card-sound-rain.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-sound-ocean",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 파도 소리를 편안한 크기로 들으며 잠깐 쉬어요. 소리가 불편하면 멈추고 쉬어요.",
+      "fileName": "card-sound-ocean.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-sound-campfire",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 모닥불 소리를 편안한 크기로 들으며 잠깐 쉬어요. 소리가 불편하면 멈추고 쉬어요.",
+      "fileName": "card-sound-campfire.mp3",
+      "verified": true
+    },
+    {
+      "id": "card-sound-forest",
+      "text": "편안한 소리를 들으며 잠깐 쉬고 싶을 때 숲 소리를 편안한 크기로 들으며 잠깐 쉬어요. 소리가 불편하면 멈추고 쉬어요.",
+      "fileName": "card-sound-forest.mp3",
+      "verified": true
+    },
+    {
+      "id": "guide_start_simple",
+      "text": "마음 지피에스 앱입니다. 화면을 터치해서 시작하세요.",
+      "fileName": "guide_start_simple.mp3",
+      "verified": true
+    },
+    {
+      "id": "praise-direct-20261011",
+      "text": "잘했어요! 내 마음을 잘 다루었어요.",
+      "fileName": "praise-direct-20261011.mp3",
+      "verified": true
+    },
+    {
+      "id": "imessage-guide-final",
+      "text": "상황과 마음, 부탁을 연결해 내 마음을 전해 봐요. 말하거나, 보여 주거나, 가리켜도 좋아요.",
+      "fileName": "imessage-guide-final.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-01",
+      "text": "친구가 나를 놀리는 말을 해요.",
+      "fileName": "add-20261011-01.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-02",
+      "text": "지금 하는 활동이 어려워요.",
+      "fileName": "add-20261011-02.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-03",
+      "text": "주변 사람이 큰 목소리로 말해요.",
+      "fileName": "add-20261011-03.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-04",
+      "text": "불편해요",
+      "fileName": "add-20261011-04.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-05",
+      "text": "화가 나요",
+      "fileName": "add-20261011-05.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-06",
+      "text": "속상해요",
+      "fileName": "add-20261011-06.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-07",
+      "text": "걱정이 돼요",
+      "fileName": "add-20261011-07.mp3",
+      "verified": true
+    },
+    {
+      "id": "add-20261011-08",
+      "text": "실수했다고 나쁜 친구가 되는 건 아니야.",
+      "fileName": "add-20261011-08.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-01",
+      "text": "너는 있는 그대로 소중해",
+      "fileName": "positive-20261011-01.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-02",
+      "text": "너의 웃음은 모두를 밝게 해",
+      "fileName": "positive-20261011-02.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-03",
+      "text": "너는 세상에 하나뿐이야",
+      "fileName": "positive-20261011-03.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-04",
+      "text": "너는 사랑받는 사람이야",
+      "fileName": "positive-20261011-04.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-05",
+      "text": "너의 마음은 참 따뜻해",
+      "fileName": "positive-20261011-05.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-06",
+      "text": "너는 좋은 친구야",
+      "fileName": "positive-20261011-06.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-07",
+      "text": "네 이야기는 소중해",
+      "fileName": "positive-20261011-07.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-08",
+      "text": "너는 누군가에게 힘이 돼",
+      "fileName": "positive-20261011-08.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-09",
+      "text": "네 곁에는 응원하는 사람이 있어",
+      "fileName": "positive-20261011-09.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-10",
+      "text": "너의 하루는 소중해",
+      "fileName": "positive-20261011-10.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-11",
+      "text": "실수해도 괜찮아",
+      "fileName": "positive-20261011-11.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-12",
+      "text": "네 마음을 말해 줘서 고마워",
+      "fileName": "positive-20261011-12.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-13",
+      "text": "네가 느끼는 마음은 다 소중해",
+      "fileName": "positive-20261011-13.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-14",
+      "text": "완벽하지 않아도 괜찮아",
+      "fileName": "positive-20261011-14.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-15",
+      "text": "쉬는 것도 잘하는 거야",
+      "fileName": "positive-20261011-15.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-16",
+      "text": "너는 잘하고 있어",
+      "fileName": "positive-20261011-16.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-17",
+      "text": "어제보다 한 걸음 나아갔어",
+      "fileName": "positive-20261011-17.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-18",
+      "text": "작은 것도 해낸 거야",
+      "fileName": "positive-20261011-18.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-19",
+      "text": "끝까지 해 본 네가 멋져",
+      "fileName": "positive-20261011-19.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-20",
+      "text": "노력하는 모습이 정말 멋져",
+      "fileName": "positive-20261011-20.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-21",
+      "text": "오늘 해낸 일을 칭찬해",
+      "fileName": "positive-20261011-21.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-22",
+      "text": "오늘도 최선을 다했어",
+      "fileName": "positive-20261011-22.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-23",
+      "text": "너의 노력은 사라지지 않아",
+      "fileName": "positive-20261011-23.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-25",
+      "text": "너의 성장이 자랑스러워",
+      "fileName": "positive-20261011-25.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-26",
+      "text": "오늘은 좋은 일이 생길 거야",
+      "fileName": "positive-20261011-26.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-27",
+      "text": "웃으면 마음도 밝아져",
+      "fileName": "positive-20261011-27.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-28",
+      "text": "오늘도 나는 네 편이야",
+      "fileName": "positive-20261011-28.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-29",
+      "text": "너의 하루를 응원해",
+      "fileName": "positive-20261011-29.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-30",
+      "text": "오늘도 멋지게 해낼 거야",
+      "fileName": "positive-20261011-30.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-31",
+      "text": "천천히 해도 다 잘될 거야",
+      "fileName": "positive-20261011-31.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-32",
+      "text": "오늘 하루, 충분히 잘했어",
+      "fileName": "positive-20261011-32.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-33",
+      "text": "크게 숨 쉬고, 다시 웃자!",
+      "fileName": "positive-20261011-33.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-34",
+      "text": "너의 꿈을 응원해",
+      "fileName": "positive-20261011-34.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-35",
+      "text": "너의 미래는 밝아",
+      "fileName": "positive-20261011-35.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-36",
+      "text": "작은 걸음이 큰 변화를 만들어",
+      "fileName": "positive-20261011-36.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-37",
+      "text": "비가 그치면 무지개가 떠",
+      "fileName": "positive-20261011-37.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-38",
+      "text": "오늘의 노력이 내일의 힘이 돼",
+      "fileName": "positive-20261011-38.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-39",
+      "text": "너에게는 좋은 일이 기다리고 있어",
+      "fileName": "positive-20261011-39.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-40",
+      "text": "꿈은 조금씩 가까워지고 있어",
+      "fileName": "positive-20261011-40.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-41",
+      "text": "너는 앞으로 더 멋져질 거야",
+      "fileName": "positive-20261011-41.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-42",
+      "text": "언제든 다시 시작할 수 있어",
+      "fileName": "positive-20261011-42.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-43",
+      "text": "네가 가는 길을 응원해",
+      "fileName": "positive-20261011-43.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-44",
+      "text": "함께라면 더 멀리 갈 수 있어",
+      "fileName": "positive-20261011-44.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-45",
+      "text": "너는 세상에 꼭 필요한 사람이야",
+      "fileName": "positive-20261011-45.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-46",
+      "text": "희망은 항상 네 곁에 있어",
+      "fileName": "positive-20261011-46.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-47",
+      "text": "내일은 오늘보다 더 웃을 거야",
+      "fileName": "positive-20261011-47.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-48",
+      "text": "너의 내일이 기대돼",
+      "fileName": "positive-20261011-48.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-49",
+      "text": "너는 무엇이든 배울 수 있어",
+      "fileName": "positive-20261011-49.mp3",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-50",
+      "text": "너는 충분히 잘 해낼 거야",
+      "fileName": "positive-20261011-50.mp3",
+      "verified": true
+    }
+  ]
+}

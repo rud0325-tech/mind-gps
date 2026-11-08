@@ -1,0 +1,25 @@
+.learning-mode-preview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 300px;
+  min-width: 0;
+  height: var(--learning-preview-height, clamp(75px, 13dvh, 140px));
+  flex: 0 0 auto;
+}
+
+.learning-mode-tablet {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 260px;
+}
+
+.learning-mode-symbol-text {
+  fill: #233c58;
+  font-family: inherit;
+  font-size: 32px;
+  font-weight: 800;
+  letter-spacing: -.025em;
+}

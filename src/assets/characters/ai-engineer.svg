@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">AI공학자</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#7FDDE0" stroke="#63ACAE" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#7FDDE0" stroke="#63ACAE" stroke-width="4.5" />
+    <path d="M130 44 V24" stroke="#3C4043" stroke-width="4" stroke-linecap="round" />
+    <circle cx="130" cy="18" r="9" fill="#FDD663" stroke="#3C4043" stroke-width="3" />
+    <path d="M117 10 l-6 -5 M143 10 l6 -5 M130 5 v-5" stroke="#FBBC04" stroke-width="3" stroke-linecap="round" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#7FDDE0" stroke="#63ACAE" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#DBF5F6" stroke="#63ACAE" stroke-width="4" />
+    <circle cx="110" cy="126" r="8" fill="#3C4043" />
+    <circle cx="112.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <circle cx="150" cy="126" r="8" fill="#3C4043" />
+    <circle cx="152.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <path d="M124 139 h12" stroke="#3C4043" stroke-width="3.2" stroke-linecap="round" />
+    <rect x="90" y="112" width="34" height="27" rx="9" fill="none" stroke="#3C4043" stroke-width="5" />
+    <rect x="136" y="112" width="34" height="27" rx="9" fill="none" stroke="#3C4043" stroke-width="5" />
+    <path d="M124 120 h12" stroke="#3C4043" stroke-width="5" stroke-linecap="round" />
+    <path d="M90 118 h-14 M170 118 h14" stroke="#3C4043" stroke-width="6" stroke-linecap="round" />
+    <circle cx="96" cy="113" r="3" fill="#8AB4F8" stroke="#3C4043" stroke-width="1.5" />
+    <rect x="159" y="130" width="8" height="5" rx="1.5" fill="#34A853" />
+    <rect x="184" y="34" width="58" height="40" rx="12" fill="#FFFFFF" stroke="#DADCE0" stroke-width="3" />
+    <path d="M194 74 l-6 12 l14 -12" fill="#FFFFFF" stroke="#DADCE0" stroke-width="3" stroke-linejoin="round" />
+    <text x="213" y="62" text-anchor="middle" font-family="Roboto Mono, Menlo, monospace" font-size="20" font-weight="700" fill="#34A853">AI</text>
+    <rect x="92" y="158" width="76" height="48" rx="7" fill="#3C4043" />
+    <rect x="98" y="164" width="64" height="36" rx="4" fill="#D2E3FC" />
+    <path d="M118 174 l-8 8 l8 8 M142 174 l8 8 l-8 8 M134 172 l-8 20" fill="none" stroke="#1A73E8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M82 206 h96 l-6 10 h-84 z" fill="#9AA0A6" stroke="#3C4043" stroke-width="3" stroke-linejoin="round" />
+    <ellipse cx="90" cy="210" rx="12" ry="17" fill="#7FDDE0" stroke="#63ACAE" stroke-width="4.5" transform="rotate(60 90 210)" />
+    <ellipse cx="170" cy="210" rx="12" ry="17" fill="#7FDDE0" stroke="#63ACAE" stroke-width="4.5" transform="rotate(-60 170 210)" />
+  </g>
+</svg>

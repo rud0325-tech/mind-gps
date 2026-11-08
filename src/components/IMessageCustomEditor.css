@@ -1,0 +1,7 @@
+.imessage-custom-picture-picker { display: flex; align-items: center; gap: 10px; margin-top: 12px; padding: 8px 10px; border-radius: 14px; background: #f4f7fb; }
+.imessage-custom-picture-picker > .imessage-picture { width: 82px; height: 58px; flex: none; }
+.imessage-custom-picture-picker > span { flex: 1; font-size: calc((14px) * var(--student-text-scale, 1)); font-weight: 700; min-width: 0; }
+.imessage-custom-picture-picker select { display: block; width: 100%; min-height: 44px; margin-top: 4px; padding: 6px; border: 1px solid #bccddd; border-radius: 10px; background: white; }
+.imessage-custom-review { display: grid; grid-template-columns: 50px minmax(0, 1fr); gap: 14px 12px; margin-block: 18px; padding: 18px; background: #eff5fb; border-radius: 16px; }
+.imessage-custom-review dt { font-size: calc((16px) * var(--student-text-scale, 1)); color: #345a81; font-weight: 750; }
+.imessage-custom-review dd { font-size: calc((20px) * var(--student-text-scale, 1)); line-height: 1.5; word-break: keep-all; overflow-wrap: anywhere; }

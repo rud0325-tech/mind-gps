@@ -1,0 +1,84 @@
+.encouragement-screen { color:#243d62;gap:clamp(8px,1.5dvh,16px); }
+.encouragement-heading { flex:none;display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:44px; }
+.encouragement-heading-actions { display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap; }
+.encouragement-heading h1 { min-width:0;display:flex;align-items:center;gap:9px;font-size: calc((clamp(25px,3.9dvh,39px)) * var(--student-text-scale, 1));font-weight:800;line-height:1.2;letter-spacing:-.035em; }
+.encouragement-heading h1>span { word-break:keep-all; }
+.encouragement-heading h1>svg { width:28px;height:28px;flex:none;color:#2458ed; }
+.encouragement-preview-toggle { min-height:44px;display:flex;align-items:center;justify-content:center;gap:5px;padding:6px 10px;border-radius:13px;background:#fff;color:#3b618c;font-size: calc((13px) * var(--student-text-scale, 1));font-weight:700; }
+.encouragement-preview-toggle>svg { width:18px;height:18px;flex:none; }
+.encouragement-card { flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:clamp(12px,2.8dvh,28px);padding:clamp(16px,3vw,38px);border-radius:26px; }
+.encouragement-content { width:100%;max-width:860px;min-width:0;min-height:0;display:flex;flex-direction:column;align-items:center;gap:clamp(14px,2.8dvh,30px);text-align:center; }
+.encouragement-content h2 { margin:0;font-size: calc((clamp(25px,4.25dvh,42px)) * var(--student-text-scale, 1));font-weight:750;line-height:1.5;word-break:keep-all;overflow-wrap:break-word;letter-spacing:-.035em;color:#25426d; }
+.encouragement-content h2:focus { outline:none; }
+.encouragement-footer { flex:none;min-width:0; }
+.encouragement-actions { display:grid;grid-template-columns:1fr 1.2fr 1.3fr;gap:10px; }
+.encouragement-actions>:is(button,a) { display:flex;align-items:center;justify-content:center;gap:7px;min-height:54px;padding:9px 12px;border-radius:16px;font-size: calc((clamp(14px,1.8dvh,19px)) * var(--student-text-scale, 1));font-weight:750;line-height:1.4;word-break:keep-all;text-align:center; }
+.encouragement-actions svg { width:21px;height:21px;flex:none; }
+.encouragement-actions button:disabled { opacity:.6; }
+.encouragement-draw { background:#2458ed;color:white;box-shadow:0 4px 13px #2458ed18; }
+.encouragement-save { background:#eaf2ff;color:#2458b9;border:1px solid #cbdcf6; }
+.encouragement-back { background:#fff;color:#436185;border:1px solid #d9e2ee; }
+.encouragement-save-status { margin:6px 0 0;min-height:17px;color:#5a718a;text-align:center;font-size: calc((12px) * var(--student-text-scale, 1));line-height:1.4;word-break:keep-all; }
+.encouragement-error { color:#8f562c;font-size: calc((12px) * var(--student-text-scale, 1));line-height:1.4;word-break:keep-all; }
+.encouragement-preview { flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;margin:0;gap:8px; }
+.encouragement-preview img { width:100%;max-height:calc(100% - 36px);min-height:0;object-fit:contain;border-radius:16px; }
+.encouragement-image-hint { margin:0;color:#435b75;font-size:calc((13px) * var(--student-text-scale, 1));font-weight:600;text-align:center;background:#eef5ff;padding:5px 12px;border-radius:20px;border:1px solid #d0e2ff;line-height:1.35; }
+.encouragement-spinner { animation:encouragement-spin 1s linear infinite; }
+@keyframes encouragement-spin { to { transform:rotate(360deg); } }
+@media (max-width:599px) {
+  .encouragement-screen { gap:8px; }
+  .encouragement-heading h1 { font-size: calc((21px) * var(--student-text-scale, 1));gap:5px; }.encouragement-heading h1>svg { width:23px;height:23px; }
+  .encouragement-preview-toggle { padding:5px 7px;font-size: calc((11px) * var(--student-text-scale, 1));gap:4px; }
+  .encouragement-preview-toggle>svg { width:16px;height:16px; }
+  .encouragement-card { gap:12px;padding:16px;border-radius:21px; }
+  .encouragement-content { flex:none;align-items:center;gap:9px;text-align:center; }
+  .encouragement-content h2 { font-size: calc((clamp(21px,3.2dvh,28px)) * var(--student-text-scale, 1));line-height:1.45; }
+  .encouragement-actions { grid-template-columns:repeat(2,minmax(0,1fr));gap:7px; }
+  .encouragement-actions>:is(button,a) { min-height:48px;padding:7px 9px;gap:5px;font-size: calc((13px) * var(--student-text-scale, 1));border-radius:14px; }
+  .encouragement-actions svg { width:19px;height:19px; }
+  .encouragement-back { grid-column:1/-1; }
+  .encouragement-save-status { margin-top:5px;font-size: calc((11px) * var(--student-text-scale, 1)); }
+}
+@media (max-width:599px) and (max-height:740px) {
+  .encouragement-screen { gap:6px; }
+  .encouragement-card { padding:12px;gap:9px; }
+  .encouragement-content { gap:9px; }
+  .encouragement-content h2 { font-size: calc((20px) * var(--student-text-scale, 1));line-height:1.4; }
+  .encouragement-actions>:is(button,a) { min-height:44px;padding:6px 8px;font-size: calc((12px) * var(--student-text-scale, 1)); }
+}
+@media (min-width:600px) and (max-height:600px) {
+  .encouragement-screen { display:grid;grid-template-columns:minmax(0,1fr) 190px;grid-template-rows:40px minmax(0,1fr);gap:6px 12px; }
+  .encouragement-heading { grid-column:1/-1;grid-row:1;min-height:36px; }
+  .encouragement-heading h1 { font-size: calc((25px) * var(--student-text-scale, 1)); }
+  .encouragement-heading h1>svg { width:23px;height:23px; }
+  .encouragement-preview-toggle { min-height:44px;font-size: calc((12px) * var(--student-text-scale, 1)); }
+  .encouragement-card,.encouragement-preview { grid-column:1;grid-row:2;height:100%; }
+  .encouragement-card { display:grid;grid-template-columns:42px minmax(0,1fr);gap:10px;padding:10px;border-radius:18px; }
+  .encouragement-content { gap:6px; }
+  .encouragement-content h2 { font-size: calc((18px) * var(--student-text-scale, 1));line-height:1.35; }
+  .encouragement-footer { grid-column:2;grid-row:2;display:flex;flex-direction:column;justify-content:center;min-height:0; }
+  .encouragement-actions { display:flex;flex-direction:column;gap:5px; }
+  .encouragement-actions>:is(button,a) { min-height:44px;padding:5px 7px;font-size: calc((12px) * var(--student-text-scale, 1));gap:5px;border-radius:12px; }
+  .encouragement-actions svg { width:17px;height:17px; }
+  .encouragement-save-status,.encouragement-error { font-size: calc((10px) * var(--student-text-scale, 1));line-height:1.3; }
+}
+@media (prefers-reduced-motion:reduce) { .encouragement-spinner { animation:none; } }
+
+/* Picture mode shows a simple cue; the full message remains screen-reader text. */
+.encouragement-card--picture { display:flex;flex-direction:column;gap:0; }
+.encouragement-card--picture .encouragement-content { flex:0;height:0;gap:0; }
+
+/* Sentence and word levels: illustration above, full message below. */
+.encouragement-card--artwork { justify-content:flex-start; }
+.encouragement-card--artwork .encouragement-content { flex:none; }
+@media (min-width:600px) and (max-height:600px) {
+  .encouragement-card--artwork { grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);align-items:center; }
+}
+
+.encouragement-screen[data-readable-flow="true"] .encouragement-heading { height:auto; flex-wrap:wrap; }
+.encouragement-screen[data-readable-flow="true"] .encouragement-card { display:flex; flex:0 0 auto; height:auto; min-height:240px; }
+.encouragement-screen[data-readable-flow="true"] .encouragement-preview { flex:0 0 auto; min-height:240px; }
+.encouragement-screen[data-readable-flow="true"] .encouragement-preview img { height:auto; }
+.encouragement-screen[data-readable-flow="true"] .positive-message-emblem--artwork > img { height:auto;max-height:40dvh; }
+.encouragement-screen[data-readable-flow="true"] .encouragement-actions { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr)); }
+.encouragement-screen[data-readable-flow="true"] .encouragement-footer { width:100%; }

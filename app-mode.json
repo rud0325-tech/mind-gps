@@ -1,0 +1,4 @@
+{
+  "dataMode": "demo",
+  "note": "공개 체험판: 학생 기록을 저장하지 않습니다. 실제 운영은 docs/DATA_SETUP.md에 따라 자신의 Firebase를 연결한 뒤 live로 바꿉니다. 바꾸면 다시 빌드할 때 반영되고, VITE_DATA_MODE 환경변수가 있으면 그 값이 먼저입니다."
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">게임히어로</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#5BB974" stroke="#46905A" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#5BB974" stroke="#46905A" stroke-width="4.5" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#5BB974" stroke="#46905A" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#D1EBD8" stroke="#46905A" stroke-width="4" />
+    <circle cx="110" cy="126" r="8" fill="#3C4043" />
+    <circle cx="112.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <circle cx="150" cy="126" r="8" fill="#3C4043" />
+    <circle cx="152.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <ellipse cx="94" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.3" />
+    <ellipse cx="166" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.3" />
+    <path d="M123 139 h12" stroke="#3C4043" stroke-width="3.2" stroke-linecap="round" />
+    <path d="M131 140 q2 7 6 5 q3 -2 0 -6 z" fill="#FF8A80" stroke="#3C4043" stroke-width="2" />
+    <path d="M66 86 Q130 60 194 86" fill="none" stroke="#3C4043" stroke-width="6" stroke-linecap="round" />
+    <rect x="86" y="44" width="88" height="40" rx="18" fill="#F8F9FA" stroke="#3C4043" stroke-width="3.5" />
+    <rect x="94" y="52" width="72" height="24" rx="12" fill="#3C4043" />
+    <path d="M100 64 h60" stroke="#81C995" stroke-width="4" stroke-linecap="round" />
+    <path d="M104 58 h14" stroke="#8AB4F8" stroke-width="3" stroke-linecap="round" />
+    <rect x="84" y="176" width="92" height="40" rx="20" fill="#F8F9FA" stroke="#3C4043" stroke-width="3" />
+    <rect x="96" y="192" width="16" height="6" rx="2" fill="#3C4043" />
+    <rect x="101" y="187" width="6" height="16" rx="2" fill="#3C4043" />
+    <circle cx="154" cy="190" r="4" fill="#EA4335" />
+    <circle cx="162" cy="198" r="4" fill="#4285F4" />
+    <circle cx="146" cy="198" r="4" fill="#FBBC04" />
+    <ellipse cx="84" cy="202" rx="12" ry="17" fill="#5BB974" stroke="#46905A" stroke-width="4.5" transform="rotate(35 84 202)" />
+    <ellipse cx="176" cy="202" rx="12" ry="17" fill="#5BB974" stroke="#46905A" stroke-width="4.5" transform="rotate(-35 176 202)" />
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "ActivityRecord": {
+      "title": "ActivityRecord",
+      "description": "A student's activity, help request, mood check-in, or a teacher's observation-only record. Self-reports are immutable; teachers add observations, status changes and later student assignments. Field-level rules are in firestore.rules and docs/DATA_SETUP.md.",
+      "type": "object",
+      "properties": {
+        "createdAt": { "type": "string", "format": "date-time" },
+        "createdBy": { "type": "string", "description": "Firebase Auth UID of the writer (student device or teacher)." },
+        "eventId": { "type": "string" },
+        "sessionId": { "type": "string" },
+        "classId": { "type": ["string", "null"] },
+        "learnerCode": { "type": ["string", "null"], "description": "Roster code such as S01. Never a real name." },
+        "identifiedBy": { "type": "string", "enum": ["device", "teacher-before", "teacher-after", "symbol", "none"] },
+        "student": { "type": "string", "description": "Chosen character ID, not a student identifier." },
+        "studentName": { "type": "string", "description": "Chosen character name." },
+        "difficulty": { "type": "string", "enum": ["글", "그림+단어", "그림", "해당 없음"] },
+        "schemaVersion": { "type": "number" },
+        "recordKind": { "type": "string", "enum": ["activity", "help", "check-in", "observation"] },
+        "emotion": { "type": ["string", "null"] },
+        "intensity": { "type": ["number", "null"] },
+        "afterEmotion": { "type": ["string", "null"] },
+        "afterIntensity": { "type": ["number", "null"] },
+        "technique": { "type": "string" },
+        "completed": { "type": "boolean" },
+        "helpRequested": { "type": "boolean" },
+        "interventionNeeded": { "type": "boolean" },
+        "status": { "type": "string", "enum": ["완료", "확인 필요", "도움 요청", "처리 완료", "활동 중"] },
+        "observation": { "type": "object" },
+        "observationUpdatedAt": { "type": "string", "format": "date-time" },
+        "observationUpdatedBy": { "type": "string" },
+        "statusUpdatedAt": { "type": "string", "format": "date-time" },
+        "statusUpdatedBy": { "type": "string" },
+        "learnerAssignedAt": { "type": "string", "format": "date-time" },
+        "learnerAssignedBy": { "type": "string" }
+      },
+      "required": ["createdAt", "createdBy", "eventId", "classId", "identifiedBy", "status"]
+    },
+    "Classroom": {
+      "title": "Classroom",
+      "description": "A class and the approved teachers who can read its records.",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "teacherIds": { "type": "array", "items": { "type": "string" } },
+        "active": { "type": "boolean" },
+        "createdBy": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "seats": { "type": "object", "description": "Shared tablet device ID -> roster code ('' = empty seat)." }
+      },
+      "required": ["name", "teacherIds", "active"]
+    },
+    "RosterStudent": {
+      "title": "RosterStudent",
+      "description": "A teacher-chosen alias for one student. Real names are not stored.",
+      "type": "object",
+      "properties": {
+        "alias": { "type": "string" },
+        "symbol": { "type": "string" },
+        "active": { "type": "boolean" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["alias", "symbol", "active"]
+    },
+    "Device": {
+      "title": "Device",
+      "description": "A student browser's anonymous UID registered by a teacher as a student-only or shared classroom device, with an optional time-limited class session.",
+      "type": "object",
+      "properties": {
+        "classId": { "type": "string" },
+        "kind": { "type": "string", "enum": ["student", "shared"] },
+        "studentCode": { "type": ["string", "null"] },
+        "label": { "type": "string" },
+        "registeredBy": { "type": "string" },
+        "registeredAt": { "type": "string", "format": "date-time" },
+        "activeClassId": { "type": ["string", "null"] },
+        "activeStudentCode": { "type": ["string", "null"] },
+        "activeUntil": { "type": ["string", "null"], "format": "date-time" }
+      },
+      "required": ["classId", "kind", "label"]
+    },
+    "TeacherApproval": {
+      "title": "TeacherApproval",
+      "description": "Created by the project owner only. admin: true also allows reading unassigned records.",
+      "type": "object",
+      "properties": {
+        "approved": { "type": "boolean" },
+        "admin": { "type": "boolean" }
+      }
+    }
+  },
+  "firestore": {
+    "/activityRecords/{recordId}": { "schema": "ActivityRecord", "description": "Records; teachers read only their own classes." },
+    "/classes/{classId}": { "schema": "Classroom", "description": "Classes with their teachers and seat maps." },
+    "/classes/{classId}/students/{code}": { "schema": "RosterStudent", "description": "Alias-only class roster." },
+    "/devices/{deviceUid}": { "schema": "Device", "description": "Registered student and shared classroom devices." },
+    "/teachers/{uid}": { "schema": "TeacherApproval", "description": "Teacher approvals, managed in the Firebase console." }
+  }
+}

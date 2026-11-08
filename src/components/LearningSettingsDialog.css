@@ -1,0 +1,30 @@
+.learning-settings-dialog { width: min(560px, calc(100vw - 24px)); max-height: calc(100dvh - 24px); overflow: auto; margin: auto; padding: 24px; border: 1px solid #c6d5e6; border-radius: 24px; color: #18334f; background: #fff; }
+.learning-settings-dialog::backdrop { background: #18334f66; }
+.learning-settings-dialog header { display: flex; justify-content: space-between; gap: 12px; align-items: center; }
+.learning-settings-dialog h2 { font-size: calc((24px) * var(--student-text-scale, 1)); font-weight: 800; }
+.learning-settings-dialog header button { display: grid; place-items: center; min-height: 44px; min-width: 44px; border-radius: 12px; background: #edf3fa; }
+.learning-settings-dialog p { margin: 12px 0; line-height: 1.6; }
+.learning-settings-dialog fieldset { padding: 0; border: 0; min-width: 0; }
+.learning-settings-dialog legend { font-size: calc((18px) * var(--student-text-scale, 1)); font-weight: 750; margin-bottom: 8px; }
+.learning-settings-dialog label { display: flex; align-items: center; gap: 12px; min-height: 60px; margin-bottom: 10px; padding: 14px; border: 2px solid #7894b3; border-radius: 14px; cursor: pointer; }
+.learning-settings-dialog label:has(input:checked) { border-color: #1967d2; background: #f0f6ff; }
+.learning-settings-dialog input { width: 24px; height: 24px; flex: 0 0 auto; accent-color: #1967d2; }
+.learning-settings-dialog strong, .learning-settings-dialog small { display: block; line-height: 1.6; }
+.learning-settings-dialog small { font-size: calc((14px) * var(--student-text-scale, 1)); }
+.learning-settings-dialog .learning-settings-note { font-size: calc((14px) * var(--student-text-scale, 1)); }
+.learning-settings-done { min-height: 48px; width: 100%; padding: 10px; border-radius: 14px; background: #1967d2; color: #fff; font-weight: 750; }
+.home-settings-actions { position: fixed; z-index: 121; left: 16px; bottom: max(10px, env(safe-area-inset-bottom)); display: flex; gap: 8px; }
+@media (max-width: 640px) {
+  #mindgps-app[data-text-size="large"] .home-settings-actions,
+  #mindgps-app[data-learning-language="en"] .home-settings-actions {
+    bottom: max(68px, calc(env(safe-area-inset-bottom) + 64px));
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  #mindgps-app[data-text-size="large"] .compact-home,
+  #mindgps-app[data-learning-language="en"] .compact-home {
+    padding-bottom: max(200px, calc(env(safe-area-inset-bottom) + 188px));
+  }
+}
+@media (forced-colors: active) { .learning-settings-dialog, .learning-settings-dialog label { background: Canvas; color: CanvasText; border-color: CanvasText; } .learning-settings-dialog label:has(input:checked) { outline: 2px solid Highlight; } }

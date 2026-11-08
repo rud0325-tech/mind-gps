@@ -1,0 +1,8 @@
+.positive-message-audio { flex:none;display:flex;align-items:center;gap:6px; }
+.positive-message-listen { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-width:52px;min-height:52px;padding:10px 14px;border:1px solid #cbdcf6;border-radius:16px;background:#eaf2ff;color:#2458b9;font-weight:750;line-height:1.2;font-size:calc(16px * var(--student-text-scale,1)); }
+.positive-message-listen>svg { flex:none;width:25px;height:25px; }
+.positive-message-listen[aria-pressed="true"] { background:#2458ed;color:#fff; }
+.completion-heading-actions .positive-message-audio .positive-message-listen { min-width:52px;min-height:52px;padding:10px 14px; }
+.completion-heading-actions .positive-message-audio .positive-message-listen>svg { width:25px;height:25px; }
+.positive-message-audio-error { max-width:260px;margin:0;color:#8f562c;font-size:calc(13px * var(--student-text-scale,1));line-height:1.4;word-break:keep-all; }
+@media(max-width:599px) { .positive-message-listen { min-width:48px;min-height:48px;padding:9px 11px;font-size:calc(14px * var(--student-text-scale,1)); }.positive-message-audio-error { max-width:170px; } }

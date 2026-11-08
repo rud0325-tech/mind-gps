@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">무대스타</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#EE675C" stroke="#B95047" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#EE675C" stroke="#B95047" stroke-width="4.5" />
+    <ellipse cx="36" cy="116" rx="12" ry="17" fill="#EE675C" stroke="#B95047" stroke-width="4.5" transform="rotate(-28 36 116)" />
+    <path d="M130 44 V24" stroke="#3C4043" stroke-width="4" stroke-linecap="round" />
+    <path d="M130 2l4.5 9.3 10.2 1.5-7.4 7.2 1.8 10.2-9.1-4.8-9.1 4.8 1.8-10.2-7.4-7.2 10.2-1.5z" fill="#FBBC04" stroke="#3C4043" stroke-width="2.5" stroke-linejoin="round" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#EE675C" stroke="#B95047" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#FAD4D1" stroke="#B95047" stroke-width="4" />
+    <circle cx="110" cy="126" r="8" fill="#3C4043" />
+    <circle cx="112.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <circle cx="150" cy="126" r="8" fill="#3C4043" />
+    <circle cx="152.6" cy="123.2" r="2.7" fill="#FFFFFF" />
+    <ellipse cx="94" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <ellipse cx="166" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <ellipse cx="130" cy="141" rx="7" ry="8.5" fill="#3C4043" />
+    <ellipse cx="130" cy="145" rx="4" ry="2.5" fill="#FF8A80" />
+    <g transform="translate(184 112) rotate(-30 30 30) scale(0.72)">
+      <rect x="24" y="28" width="12" height="28" rx="5" fill="#5F6368" />
+      <circle cx="30" cy="20" r="14" fill="#E8EAED" stroke="#3C4043" stroke-width="3" />
+      <path d="M22 16h16M20 22h20" stroke="#3C4043" stroke-width="2" stroke-linecap="round" />
+      <path d="M50 4l2.6 5.4 5.9.8-4.3 4.1 1 5.8-5.2-2.8-5.2 2.8 1-5.8-4.3-4.1 5.9-.8z" fill="#FBBC04" />
+    </g>
+    <ellipse cx="214" cy="168" rx="12" ry="17" fill="#EE675C" stroke="#B95047" stroke-width="4.5" transform="rotate(-25 214 168)" />
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 280 280" width="280" height="280" role="img" aria-labelledby="character-title">
+  <title id="character-title">음악메이트</title>
+  <g>
+    <ellipse cx="130" cy="254" rx="62" ry="6" fill="#000000" opacity="0.08" />
+    <ellipse cx="106" cy="236" rx="17" ry="10" fill="#C9A7FF" stroke="#9C82C6" stroke-width="4.5" />
+    <ellipse cx="154" cy="236" rx="17" ry="10" fill="#C9A7FF" stroke="#9C82C6" stroke-width="4.5" />
+    <ellipse cx="46" cy="172" rx="12" ry="17" fill="#C9A7FF" stroke="#9C82C6" stroke-width="4.5" transform="rotate(35 46 172)" />
+    <path d="M130 248 C114 222 42 188 42 130 C42 80 82 42 130 42 C178 42 218 80 218 130 C218 188 146 222 130 248 Z" fill="#C9A7FF" stroke="#9C82C6" stroke-width="5" stroke-linejoin="round" />
+    <circle cx="130" cy="128" r="54" fill="#EFE6FF" stroke="#9C82C6" stroke-width="4" />
+    <path d="M102 129 Q110 116 118 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M142 129 Q150 116 158 129" fill="none" stroke="#3C4043" stroke-width="4.5" stroke-linecap="round" />
+    <ellipse cx="94" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <ellipse cx="166" cy="140" rx="8" ry="5" fill="#FF9E80" opacity="0.45" />
+    <path d="M118 139 Q130 145 142 139 C140 156 120 156 118 139 Z" fill="#3C4043" stroke="#3C4043" stroke-width="3.2" stroke-linejoin="round" />
+    <path d="M124 148 Q130 144 136 148 Q130 153 124 148 Z" fill="#FF8A80" />
+    <path d="M64 132 Q62 22 130 22 Q198 22 196 132" fill="none" stroke="#3C4043" stroke-width="16" stroke-linecap="round" />
+    <path d="M64 132 Q62 22 130 22 Q198 22 196 132" fill="none" stroke="#F1EAFE" stroke-width="10" stroke-linecap="round" />
+    <path d="M96 34 Q130 26 164 34" fill="none" stroke="#C9A7FF" stroke-width="4" stroke-linecap="round" />
+    <ellipse cx="66" cy="132" rx="20" ry="30" fill="#F1EAFE" stroke="#3C4043" stroke-width="3.5" />
+    <ellipse cx="194" cy="132" rx="20" ry="30" fill="#F1EAFE" stroke="#3C4043" stroke-width="3.5" />
+    <ellipse cx="66" cy="132" rx="9" ry="16" fill="#C9A7FF" />
+    <ellipse cx="194" cy="132" rx="9" ry="16" fill="#C9A7FF" />
+    <circle cx="62" cy="152" r="2.5" fill="#34A853" />
+    <ellipse cx="214" cy="150" rx="12" ry="17" fill="#C9A7FF" stroke="#9C82C6" stroke-width="4.5" transform="rotate(-10 214 150)" />
+  </g>
+</svg>

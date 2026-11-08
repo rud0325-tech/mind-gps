@@ -1,0 +1,406 @@
+{
+  "sourceSha256": "1568ffb851d6cb304b4023a01b7ead2a0433acf3feb2ef92fb716bf1154105a7",
+  "scriptSha256": "c43f9757c029f3fcae0471a9aca9dc8a3f589e73d4496663517656cb0f08d88e",
+  "clips": [
+    {
+      "id": "positive-20261011-01",
+      "messageId": "encouragement-20261007-01",
+      "text": "너는 있는 그대로 소중해",
+      "fileName": "positive-20261011-01.mp3",
+      "sha256": "6c15eed958be09068e0ad030302afbefd449e239b9577434f81f1e2cfc92667b",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-02",
+      "messageId": "encouragement-20261007-02",
+      "text": "너의 웃음은 모두를 밝게 해",
+      "fileName": "positive-20261011-02.mp3",
+      "sha256": "c31456488cf8cb26126a41e017d2af9c7710e06089022a17d8add3e08f539bfa",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-03",
+      "messageId": "encouragement-20261007-03",
+      "text": "너는 세상에 하나뿐이야",
+      "fileName": "positive-20261011-03.mp3",
+      "sha256": "3d18bc181eb4d3ee5adfca37d5a779e10510c66adbb75b1a2edf6c4d02919128",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-04",
+      "messageId": "encouragement-20261007-04",
+      "text": "너는 사랑받는 사람이야",
+      "fileName": "positive-20261011-04.mp3",
+      "sha256": "0aec1fa9b18852cfbce1ec984434bdca25098c51ea272733ca5e699225b927d5",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-05",
+      "messageId": "encouragement-20261007-05",
+      "text": "너의 마음은 참 따뜻해",
+      "fileName": "positive-20261011-05.mp3",
+      "sha256": "55879a32b1ffc2bf8268df91b914d9de7a4f372a2551641c63531e0d31f1bec2",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-06",
+      "messageId": "encouragement-20261007-06",
+      "text": "너는 좋은 친구야",
+      "fileName": "positive-20261011-06.mp3",
+      "sha256": "546c193a05c6165294d6f1d51d6a88a00f9fc2fb67c7297ab8ccd96aa1f9bd46",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-07",
+      "messageId": "encouragement-20261007-07",
+      "text": "네 이야기는 소중해",
+      "fileName": "positive-20261011-07.mp3",
+      "sha256": "08ca8415640257b91678042305988b1c9fe8bf8c5caf540c7f96caa5f8bfd46c",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-08",
+      "messageId": "encouragement-20261007-08",
+      "text": "너는 누군가에게 힘이 돼",
+      "fileName": "positive-20261011-08.mp3",
+      "sha256": "2ce7070fe645d2377c74b56048e5d2337b0ef4b44edcb68d977b5d677ab10a51",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-09",
+      "messageId": "encouragement-20261007-09",
+      "text": "네 곁에는 응원하는 사람이 있어",
+      "fileName": "positive-20261011-09.mp3",
+      "sha256": "341f59e34f76e922b01f679eb41be172a0d61cd0c625e0ce9985a880e5c96b09",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-10",
+      "messageId": "encouragement-20261007-10",
+      "text": "너의 하루는 소중해",
+      "fileName": "positive-20261011-10.mp3",
+      "sha256": "4498edfc4419e752079a0f0a4b158e2c7363376a0131ac5d5c6764d547ca24ec",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-11",
+      "messageId": "encouragement-20261007-11",
+      "text": "실수해도 괜찮아",
+      "fileName": "positive-20261011-11.mp3",
+      "sha256": "6ef2bc5c8f4d3e3ff17e5020618d37a6cfd1f011b9a9504ddb877a6d6243b300",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-12",
+      "messageId": "encouragement-20261007-12",
+      "text": "네 마음을 말해 줘서 고마워",
+      "fileName": "positive-20261011-12.mp3",
+      "sha256": "cd0594754ac694be0222d640d61593b6c9817bc5d3020689de7513b2c9ee30b5",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-13",
+      "messageId": "encouragement-20261007-13",
+      "text": "네가 느끼는 마음은 다 소중해",
+      "fileName": "positive-20261011-13.mp3",
+      "sha256": "2c7e39b2db2d1e82a2312378d5e482e7fced93dd03f3bb55b8b7f82c65894bbf",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-14",
+      "messageId": "encouragement-20261007-14",
+      "text": "완벽하지 않아도 괜찮아",
+      "fileName": "positive-20261011-14.mp3",
+      "sha256": "75e3e88b3ce213c3fbe56f9e58d6478c08f7668cd16b40190ce38dee307d9824",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-15",
+      "messageId": "encouragement-20261007-15",
+      "text": "쉬는 것도 잘하는 거야",
+      "fileName": "positive-20261011-15.mp3",
+      "sha256": "ee35fabeb1bfbd1eea7c2bb5f171f0b7913f676adf62354befa97cebcdda4678",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-16",
+      "messageId": "encouragement-20261007-16",
+      "text": "너는 잘하고 있어",
+      "fileName": "positive-20261011-16.mp3",
+      "sha256": "b564f6fad43b2a705e281f866972f2cda6f9e4ade030ac3d2e320064a859c9a1",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-17",
+      "messageId": "encouragement-20261007-17",
+      "text": "어제보다 한 걸음 나아갔어",
+      "fileName": "positive-20261011-17.mp3",
+      "sha256": "8dc03b84e8d9c79441ad1fd53ff5e79d60eda49ee45494f2a8a1c49055d0887f",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-18",
+      "messageId": "encouragement-20261007-18",
+      "text": "작은 것도 해낸 거야",
+      "fileName": "positive-20261011-18.mp3",
+      "sha256": "bab62910c38889e05b67bbcca2a75d9c641088d8f32a68e50486116c7835ec15",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-19",
+      "messageId": "encouragement-20261007-19",
+      "text": "끝까지 해 본 네가 멋져",
+      "fileName": "positive-20261011-19.mp3",
+      "sha256": "d9320efd7db4d6061bb27062ba7d94b861ef6c65709d1cdbcc31a52b6221c109",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-20",
+      "messageId": "encouragement-20261007-20",
+      "text": "노력하는 모습이 정말 멋져",
+      "fileName": "positive-20261011-20.mp3",
+      "sha256": "3b2343e618f764c385691e565dd83129a286ef32ee8f44c14cef347fd054a558",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-21",
+      "messageId": "encouragement-20261007-21",
+      "text": "오늘 해낸 일을 칭찬해",
+      "fileName": "positive-20261011-21.mp3",
+      "sha256": "dc69f1957c42e91ff0ac9f9e49b3107b66bcb68680354bd7003492a68cb33300",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-22",
+      "messageId": "encouragement-20261007-22",
+      "text": "오늘도 최선을 다했어",
+      "fileName": "positive-20261011-22.mp3",
+      "sha256": "9bc3ccfc4f0e6cd67200fe49439d2e8a0aa6c9d2e40d33a1cbebdf638e8131c2",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-23",
+      "messageId": "encouragement-20261007-23",
+      "text": "너의 노력은 사라지지 않아",
+      "fileName": "positive-20261011-23.mp3",
+      "sha256": "ceeaf7d6a95c495de2b6115a6d9577d4cc2fc9ea98c0546884d65c81c1280632",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-24",
+      "messageId": "encouragement-20261007-24",
+      "text": "실수에서도 배울 수 있어",
+      "fileName": "positive-20261011-24.mp3",
+      "sha256": "94349aba0fba489e7da78da7443416a7c93b11d0fdc63badaecca51200b579fd",
+      "verified": false
+    },
+    {
+      "id": "positive-20261011-25",
+      "messageId": "encouragement-20261007-25",
+      "text": "너의 성장이 자랑스러워",
+      "fileName": "positive-20261011-25.mp3",
+      "sha256": "9ddeb81a1950875aba3d86c0bc8641be345b57378a77178832f03c40fcac314a",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-26",
+      "messageId": "encouragement-20261007-26",
+      "text": "오늘은 좋은 일이 생길 거야",
+      "fileName": "positive-20261011-26.mp3",
+      "sha256": "87c4e7580c3e6c63c93745012ef3e4344cd280a7eef4278a964b6be93820e0b7",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-27",
+      "messageId": "encouragement-20261007-27",
+      "text": "웃으면 마음도 밝아져",
+      "fileName": "positive-20261011-27.mp3",
+      "sha256": "17c5c3ae8fa34a7bade371434d49bc1ce11d42eb6e85d69a886399067eab7969",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-28",
+      "messageId": "encouragement-20261007-28",
+      "text": "오늘도 나는 네 편이야",
+      "fileName": "positive-20261011-28.mp3",
+      "sha256": "0f435684aea51591b0cde9ab66108f5dcbdac729d18af2df62a8c05e5377189b",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-29",
+      "messageId": "encouragement-20261007-29",
+      "text": "너의 하루를 응원해",
+      "fileName": "positive-20261011-29.mp3",
+      "sha256": "10e7f7bb52108c4ab9bdb0b5d7b00cb5ddfe3e2465982f636da6daaf821f8a41",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-30",
+      "messageId": "encouragement-20261007-30",
+      "text": "오늘도 멋지게 해낼 거야",
+      "fileName": "positive-20261011-30.mp3",
+      "sha256": "dc286c73311c1fc22cfec79a674db482e987770b0e759829ae6d2e415d91565e",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-31",
+      "messageId": "encouragement-20261007-31",
+      "text": "천천히 해도 다 잘될 거야",
+      "fileName": "positive-20261011-31.mp3",
+      "sha256": "d94dee993c8a8256b452fda693e90bc957ac2f1229180168f7140f25d5bd5e31",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-32",
+      "messageId": "encouragement-20261007-32",
+      "text": "오늘 하루, 충분히 잘했어",
+      "fileName": "positive-20261011-32.mp3",
+      "sha256": "1d47da44e7108f37a282e65bbe6db156948015454a3f6de69548825f6177e039",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-33",
+      "messageId": "encouragement-20261007-33",
+      "text": "크게 숨 쉬고, 다시 웃자!",
+      "fileName": "positive-20261011-33.mp3",
+      "sha256": "3bfedf17609b98b3872990505684fba07384ca90a57d3e253923ae2fb0c41071",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-34",
+      "messageId": "encouragement-20261007-34",
+      "text": "너의 꿈을 응원해",
+      "fileName": "positive-20261011-34.mp3",
+      "sha256": "8307ce5a4d840ef2cffe360e5a1e8b55ac2df198e1094507c4343dcb2bd737e6",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-35",
+      "messageId": "encouragement-20261007-35",
+      "text": "너의 미래는 밝아",
+      "fileName": "positive-20261011-35.mp3",
+      "sha256": "750e08f12cabf8b995efc9aed19bb62cb8ae0291194c046247a9b487d2a272e2",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-36",
+      "messageId": "encouragement-20261007-36",
+      "text": "작은 걸음이 큰 변화를 만들어",
+      "fileName": "positive-20261011-36.mp3",
+      "sha256": "29114e76a7c1201f4995507f1f13a9010adbe5afaf4e48de62c6ba0a081fff1e",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-37",
+      "messageId": "encouragement-20261007-37",
+      "text": "비가 그치면 무지개가 떠",
+      "fileName": "positive-20261011-37.mp3",
+      "sha256": "195192f97e9d067ef8d54d0680ea621a33d74b7de8f2c06d04d75c85ba30ce52",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-38",
+      "messageId": "encouragement-20261007-38",
+      "text": "오늘의 노력이 내일의 힘이 돼",
+      "fileName": "positive-20261011-38.mp3",
+      "sha256": "16c4fded62093144abb85fb6ccf33cc937b78c8dbb240bdf984ddbf1ff9302ad",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-39",
+      "messageId": "encouragement-20261007-39",
+      "text": "너에게는 좋은 일이 기다리고 있어",
+      "fileName": "positive-20261011-39.mp3",
+      "sha256": "a660d0bb65cf446ce97c2852347d50591343b717ba49d0a3dcb7e4a3cf5f6d09",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-40",
+      "messageId": "encouragement-20261007-40",
+      "text": "꿈은 조금씩 가까워지고 있어",
+      "fileName": "positive-20261011-40.mp3",
+      "sha256": "fb1976655a8bc76d77fc38c99fbcf854469f811c2171b7999d68d5d91895899f",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-41",
+      "messageId": "encouragement-20261007-41",
+      "text": "너는 앞으로 더 멋져질 거야",
+      "fileName": "positive-20261011-41.mp3",
+      "sha256": "4f8ced56939c325d921bc15e3ba6ae401f23b6b664926dbd68f890d244195c6a",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-42",
+      "messageId": "encouragement-20261007-42",
+      "text": "언제든 다시 시작할 수 있어",
+      "fileName": "positive-20261011-42.mp3",
+      "sha256": "a2864853e6e990029ade2199702b7ff1c363ab01817eabb66149afed96e1e9c4",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-43",
+      "messageId": "encouragement-20261007-43",
+      "text": "네가 가는 길을 응원해",
+      "fileName": "positive-20261011-43.mp3",
+      "sha256": "bd33d1e543c242f552c3333cf23e1df1a7aa80e36e746eebe5b9fe416d43202f",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-44",
+      "messageId": "encouragement-20261007-44",
+      "text": "함께라면 더 멀리 갈 수 있어",
+      "fileName": "positive-20261011-44.mp3",
+      "sha256": "a1b6e5cb9c335aff5f15abda90db18968060544b271ccce86f146e80f9d44281",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-45",
+      "messageId": "encouragement-20261007-45",
+      "text": "너는 세상에 꼭 필요한 사람이야",
+      "fileName": "positive-20261011-45.mp3",
+      "sha256": "ee7fe1976e55acca218c46a68e6142cba63f5dce0b4ae135656538f1f3462393",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-46",
+      "messageId": "encouragement-20261007-46",
+      "text": "희망은 항상 네 곁에 있어",
+      "fileName": "positive-20261011-46.mp3",
+      "sha256": "ea51e6021221c80bd3f933cef7595e0e9d8f18cda9fdf7656097d702192e2149",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-47",
+      "messageId": "encouragement-20261007-47",
+      "text": "내일은 오늘보다 더 웃을 거야",
+      "fileName": "positive-20261011-47.mp3",
+      "sha256": "f33d60a8f38f9e4c207001f61b878aaa55f115ed6eb1cc25ff171b17dc2d9bdd",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-48",
+      "messageId": "encouragement-20261007-48",
+      "text": "너의 내일이 기대돼",
+      "fileName": "positive-20261011-48.mp3",
+      "sha256": "9d6b857eb577acb1b05275b68a1007724581ec1d928add2fd7d24d1bff3aabfb",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-49",
+      "messageId": "encouragement-20261007-49",
+      "text": "너는 무엇이든 배울 수 있어",
+      "fileName": "positive-20261011-49.mp3",
+      "sha256": "2504c722b7772eda4b724a2d30da95fc2a315b1f88e8db5364c17bd5a40f8ed7",
+      "verified": true
+    },
+    {
+      "id": "positive-20261011-50",
+      "messageId": "encouragement-20261007-50",
+      "text": "너는 충분히 잘 해낼 거야",
+      "fileName": "positive-20261011-50.mp3",
+      "sha256": "573f5b703bc118ebac32bce5da8a31e7452af76e33d8f7fcce3b952188d27816",
+      "verified": true
+    }
+  ]
+}

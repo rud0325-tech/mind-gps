@@ -1,0 +1,25 @@
+.rebt-support-expressions { flex:none; width:100%; min-width:0; }
+.rebt-support-expressions > p { color:#496583; font-size: calc((13px) * var(--student-text-scale, 1)); margin-bottom:5px; }
+.rebt-support-expressions > p > span { color:#667c94; font-size: calc((11px) * var(--student-text-scale, 1)); }
+.rebt-support-expressions > div { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; }
+.rebt-support-expressions button { display:flex; align-items:center; justify-content:center; gap:7px; min-height:56px; padding:8px; border:2px solid #ceddf0; border-radius:14px; background:#fff; color:#345476; }
+.rebt-support-expressions button > strong { min-width:0; font-size: calc((clamp(14px,1.9dvh,18px)) * var(--student-text-scale, 1)); line-height:1.4; word-break:keep-all; overflow-wrap:anywhere; }
+.rebt-support-expressions button > svg { flex:none; width:19px; height:19px; }
+.rebt-support-expressions button > .rebt-picture { flex:0 1 95px; width:95px; height:75px; min-height:0; }
+.rebt-support-expressions--picture button { height:84px; padding:5px; }
+.rebt-support-expressions--picture button > .rebt-picture { width:116px; height:70px; flex:0 1 116px; }
+@media(max-width:599px) {
+  .rebt-support-expressions button { gap:4px; padding:7px; }
+  .rebt-support-expressions button > strong { font-size: calc((13px) * var(--student-text-scale, 1)); }
+  .rebt-support-expressions button > .rebt-picture { flex-basis:58px; width:58px; height:55px; }
+  .rebt-support-expressions--picture button { height:76px; }
+  .rebt-support-expressions--picture button > .rebt-picture { flex-basis:98px; width:98px; height:64px; }
+}
+@media(max-height:540px) and (min-width:600px) {
+  .rebt-support-expressions > p { font-size: calc((11px) * var(--student-text-scale, 1)); margin-bottom:3px; }
+  .rebt-support-expressions button { min-height:44px; padding:4px 6px; }
+  .rebt-support-expressions button > strong { font-size: calc((12px) * var(--student-text-scale, 1)); }
+  .rebt-support-expressions button > .rebt-picture { flex-basis:55px; width:55px; height:40px; }
+  .rebt-support-expressions--picture button { height:58px; }
+  .rebt-support-expressions--picture button > .rebt-picture { flex-basis:78px; width:78px; height:48px; }
+}
