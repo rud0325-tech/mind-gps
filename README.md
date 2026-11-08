@@ -72,7 +72,7 @@
 
 ## 어떻게 만들었나요
 
-코드를 직접 쓰지 않고, AI 도구와 대화하며 만들었습니다.
+학생에게 필요한 기능과 학습 흐름을 정의하고, AI 도구를 활용해 앱으로 구현했습니다. 수업에서 직접 사용하며 어려운 지점을 관찰하고, 수정할 기능의 우선순위를 정해 개선했습니다. 기능을 바꾼 뒤에는 기존 학습 흐름이 유지되는지도 함께 확인했습니다.
 
 | 단계 | 도구 | 한 일 |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ Google for Education AI+Edu Fellowship, GEG 선생님들, 그리고 함께 써 �
 
 ## English
 
-**Mind G.P.S. 3.0** is a social-emotional learning (SEL) web app for everyone, built by Yungyeong Kim, a special education teacher in Korea, without writing code by hand.
+**Mind G.P.S. 3.0** is a social-emotional learning (SEL) web app for everyone, built by Yungyeong Kim, a special education teacher in Korea, Mind G.P.S. 3.0 is a social-emotional learning (SEL) web app developed by Yungyeong Kim, a special education teacher in Korea, using AI-assisted coding and refined through classroom use.
 
 > **This repository is the demo edition.** It runs in demo mode by default: no student records are stored and no alerts are sent. It contains no connection details for the live school deployment.
 >
@@ -151,7 +151,9 @@ Google for Education AI+Edu Fellowship, GEG 선생님들, 그리고 함께 써 �
 
 **Privacy and safety.** No names or student IDs, only characters and teacher-assigned nicknames. Students use anonymous sign-in; only approved teachers can view records, through Google sign-in, and only for their own classes. A level-5 negative emotion or a help request emails the teacher through an Apps Script server that re-checks the sign-in and the record before sending. Firestore security rules are covered by automated tests, and no secrets are kept in the code.
 
-**How it was built.** Gemini Notebook for an evidence-grounded spec, Google Stitch for the UI, Google AI Studio for the build, a ChatGPT agent for the English version and the data and security structure, and Firebase, Apps Script and Gmail for records and alerts. Version 1.0 (January 2026) became 2.0 during the Google for Education AI+Edu Fellowship (February–May 2026), and 3.0 redesigned data and security after teachers asked how the data is managed.
+
+**I defined the learning flow and feature requirements, then used AI-assisted coding tools to implement them. Through classroom use, I identified difficulties, prioritized improvements, and checked that changes preserved the existing learning flow. 
+How it was built.** Gemini Notebook for an evidence-grounded spec, Google Stitch for the UI, Google AI Studio for the build, a ChatGPT agent for the English version and the data and security structure, and Firebase, Apps Script and Gmail for records and alerts. Version 1.0 (January 2026) became 2.0 during the Google for Education AI+Edu Fellowship (February–May 2026), and 3.0 redesigned data and security after teachers asked how the data is managed.
 
 **Classroom use.** In 2026 the app is used in two classes and is still being refined. Early observations shared in an October 2026 workshop (average emotion intensity from level 3–4 before an activity to 1 after it, and 90% of chosen activities completed) are small and short-term, and data collection continues.
 
